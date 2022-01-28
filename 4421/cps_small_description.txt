@@ -1,0 +1,14 @@
+Obs:    1000
+
+1. wage                 hourly wage
+2. educ                 years od education
+3. exper                years of work experience
+4. hrswk                hours worked during a typical week
+5. married              married (1=yes, 0=no)
+6. female               female (1=yes, 0=no)
+7. metro                lives in metropolitan area (1=yes, 0=no)
+8. midwwest             lives in the midwest (1=yes, 0=no)
+9. south                lives in the south (1=yes, 0=no)
+10. west                lives in the west (1=yes, 0=no)
+11. black               black (1=yes, 0=no)
+12. asian               asian (1=yes, 0=no)
