@@ -1,0 +1,5 @@
+Obs:    87
+
+Country:        Country
+GDPpc:          GDP per capita, 1992 gross domestic product per person adjusted for purchasing power parity
+IMR:            Infant Mortality Rate, the number of deaths per 1000 live births between birth and exactly one year of age
