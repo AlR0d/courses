@@ -1,0 +1,10 @@
+- AGE: age in years
+- IQ: intelligence score
+- ANXIETY: anxiety (1=none, 2=mild, 3=moderate, 4=severe)
+- DEPRESS: depression (1=none, 2=mild, 3=moderate, 4=severe)
+- SLEEP: can you sleep normally? (1=yes, 2=no)
+- SEX: have you lost interest in sex? (1=no, 2=yes)
+- LIFE: have you thought recently about ending your life? (1=no, 2=yes)
+- WEIGHT: increase in weight over last six months (in lbs)
+
+- Missing values are coded as -99.
