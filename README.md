@@ -1,1 +1,1 @@
-Repository storing the files of various courses.
+Repository storing files for various courses.
