@@ -1,0 +1,5 @@
+Obs: 75
+
+revenue		Monthly sales revenue ($1000s)
+price		A price index for all products sold in a given month.
+advert 		Expenditure on advertising, previous month ($1000s)
