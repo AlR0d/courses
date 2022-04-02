@@ -16,6 +16,8 @@ Variable name definitions:
                     numbering)
     rate_marriage   : How rate marriage, 1 = very unhappy, 2 = somewhat happy,
                     3 = average, 4 = happier than average, 5 = very happy
+    yPT             : How often engaged in extramarital sexual intercourse 
+                    during the past year.  See paper for more details.
 
 See the original paper for more details:
 "A Theory of Extramarital Affairs," Journal of Political Economy, 1978
