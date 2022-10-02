@@ -1,0 +1,16 @@
+Variable        Description
+----------------------------------------------------------------------
+age             age
+female          identifies as female
+black           is black
+white           is white 
+born_usa        born in the USA
+single          is not married
+salary          annual income
+degree          highest degree attained
+major           college major
+slf_emp         self-employed or works for somebody
+discrimination  has experienced discrimination at work in past 5 yrs
+happy           general level of happiness
+life            life is exciting or dull
+----------------------------------------------------------------------
