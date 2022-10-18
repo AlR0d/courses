@@ -1,0 +1,25 @@
+Obs:    9799
+
+1. age                  age in years
+2. asian                asian (1=yes, 0=no)
+3. black                black (1=yes, 0=no)
+4. divorced             divorced (1=yes, 0=no)
+5. educ                 years of education
+6. exper                years of work experience
+7. faminc               family income
+8. hrswork              hours worked during a typical week
+9. insure               health insurance (1=yes, 0=no)
+10. married             married (1=yes, 0=no)
+11. mcaid               is on medicaid (1=yes, 0=no)
+12. mcare               is on medicare (1=yes, 0=no)
+13. metro               lives in metropolitan area (1=yes, 0=no)
+14. midwwest            lives in the midwest (1=yes, 0=no)
+15. nchild              number of children in household
+16. northeast           lives in the northeast (1=yes, 0=no)
+17. single              is single (1=yes, 0=no)
+18. south               lives in the south (1=yes, 0=no)
+19. union               is member of work union (1=yes, 0=no)
+20. wage                hourly wage
+21. female              female (1=yes, 0=no)
+22. west                lives in the west (1=yes, 0=no)
+23. white               white (1=yes, 0=no)
