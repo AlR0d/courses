@@ -1,75 +1,75 @@
-make,price,mpg,rep78,headroom,trunk,weight,length,turn,displacement,gear_ratio,foreign
-AMC Concord,4099,22,3,2.5,11,2930,186,40,121,3.5799999,Domestic
-AMC Pacer,4749,17,3,3,11,3350,173,40,258,2.53,Domestic
-AMC Spirit,3799,22,,3,12,2640,168,35,121,3.0799999,Domestic
-Buick Century,4816,20,3,4.5,16,3250,196,40,196,2.9300001,Domestic
-Buick Electra,7827,15,4,4,20,4080,222,43,350,2.4100001,Domestic
-Buick LeSabre,5788,18,3,4,21,3670,218,43,231,2.73,Domestic
-Buick Opel,4453,26,,3,10,2230,170,34,304,2.8699999,Domestic
-Buick Regal,5189,20,3,2,16,3280,200,42,196,2.9300001,Domestic
-Buick Riviera,10372,16,3,3.5,17,3880,207,43,231,2.9300001,Domestic
-Buick Skylark,4082,19,3,3.5,13,3400,200,42,231,3.0799999,Domestic
-Cad. Deville,11385,14,3,4,20,4330,221,44,425,2.28,Domestic
-Cad. Eldorado,14500,14,2,3.5,16,3900,204,43,350,2.1900001,Domestic
-Cad. Seville,15906,21,3,3,13,4290,204,45,350,2.24,Domestic
-Chev. Chevette,3299,29,3,2.5,9,2110,163,34,231,2.9300001,Domestic
-Chev. Impala,5705,16,4,4,20,3690,212,43,250,2.5599999,Domestic
-Chev. Malibu,4504,22,3,3.5,17,3180,193,31,200,2.73,Domestic
-Chev. Monte Carlo,5104,22,2,2,16,3220,200,41,200,2.73,Domestic
-Chev. Monza,3667,24,2,2,7,2750,179,40,151,2.73,Domestic
-Chev. Nova,3955,19,3,3.5,13,3430,197,43,250,2.5599999,Domestic
-Dodge Colt,3984,30,5,2,8,2120,163,35,98,3.54,Domestic
-Dodge Diplomat,4010,18,2,4,17,3600,206,46,318,2.47,Domestic
-Dodge Magnum,5886,16,2,4,17,3600,206,46,318,2.47,Domestic
-Dodge St. Regis,6342,17,2,4.5,21,3740,220,46,225,2.9400001,Domestic
-Ford Fiesta,4389,28,4,1.5,9,1800,147,33,98,3.1500001,Domestic
-Ford Mustang,4187,21,3,2,10,2650,179,43,140,3.0799999,Domestic
-Linc. Continental,11497,12,3,3.5,22,4840,233,51,400,2.47,Domestic
-Linc. Mark V,13594,12,3,2.5,18,4720,230,48,400,2.47,Domestic
-Linc. Versailles,13466,14,3,3.5,15,3830,201,41,302,2.47,Domestic
-Merc. Bobcat,3829,22,4,3,9,2580,169,39,140,2.73,Domestic
-Merc. Cougar,5379,14,4,3.5,16,4060,221,48,302,2.75,Domestic
-Merc. Marquis,6165,15,3,3.5,23,3720,212,44,302,2.26,Domestic
-Merc. Monarch,4516,18,3,3,15,3370,198,41,250,2.4300001,Domestic
-Merc. XR-7,6303,14,4,3,16,4130,217,45,302,2.75,Domestic
-Merc. Zephyr,3291,20,3,3.5,17,2830,195,43,140,3.0799999,Domestic
-Olds 98,8814,21,4,4,20,4060,220,43,350,2.4100001,Domestic
-Olds Cutl Supr,5172,19,3,2,16,3310,198,42,231,2.9300001,Domestic
-Olds Cutlass,4733,19,3,4.5,16,3300,198,42,231,2.9300001,Domestic
-Olds Delta 88,4890,18,4,4,20,3690,218,42,231,2.73,Domestic
-Olds Omega,4181,19,3,4.5,14,3370,200,43,231,3.0799999,Domestic
-Olds Starfire,4195,24,1,2,10,2730,180,40,151,2.73,Domestic
-Olds Toronado,10371,16,3,3.5,17,4030,206,43,350,2.4100001,Domestic
-Plym. Arrow,4647,28,3,2,11,3260,170,37,156,3.05,Domestic
-Plym. Champ,4425,34,5,2.5,11,1800,157,37,86,2.97,Domestic
-Plym. Horizon,4482,25,3,4,17,2200,165,36,105,3.3699999,Domestic
-Plym. Sapporo,6486,26,,1.5,8,2520,182,38,119,3.54,Domestic
-Plym. Volare,4060,18,2,5,16,3330,201,44,225,3.23,Domestic
-Pont. Catalina,5798,18,4,4,20,3700,214,42,231,2.73,Domestic
-Pont. Firebird,4934,18,1,1.5,7,3470,198,42,231,3.0799999,Domestic
-Pont. Grand Prix,5222,19,3,2,16,3210,201,45,231,2.9300001,Domestic
-Pont. Le Mans,4723,19,3,3.5,17,3200,199,40,231,2.9300001,Domestic
-Pont. Phoenix,4424,19,,3.5,13,3420,203,43,231,3.0799999,Domestic
-Pont. Sunbird,4172,24,2,2,7,2690,179,41,151,2.73,Domestic
-Audi 5000,9690,17,5,3,15,2830,189,37,131,3.2,Foreign
-Audi Fox,6295,23,3,2.5,11,2070,174,36,97,3.7,Foreign
-BMW 320i,9735,25,4,2.5,12,2650,177,34,121,3.6400001,Foreign
-Datsun 200,6229,23,4,1.5,6,2370,170,35,119,3.8900001,Foreign
-Datsun 210,4589,35,5,2,8,2020,165,32,85,3.7,Foreign
-Datsun 510,5079,24,4,2.5,8,2280,170,34,119,3.54,Foreign
-Datsun 810,8129,21,4,2.5,8,2750,184,38,146,3.55,Foreign
-Fiat Strada,4296,21,3,2.5,16,2130,161,36,105,3.3699999,Foreign
-Honda Accord,5799,25,5,3,10,2240,172,36,107,3.05,Foreign
-Honda Civic,4499,28,4,2.5,5,1760,149,34,91,3.3,Foreign
-Mazda GLC,3995,30,4,3.5,11,1980,154,33,86,3.73,Foreign
-Peugeot 604,12990,14,,3.5,14,3420,192,38,163,3.5799999,Foreign
-Renault Le Car,3895,26,3,3,10,1830,142,34,79,3.72,Foreign
-Subaru,3798,35,5,2.5,11,2050,164,36,97,3.8099999,Foreign
-Toyota Celica,5899,18,5,2.5,14,2410,174,36,134,3.0599999,Foreign
-Toyota Corolla,3748,31,5,3,9,2200,165,35,97,3.21,Foreign
-Toyota Corona,5719,18,5,2,11,2670,175,36,134,3.05,Foreign
-VW Dasher,7140,23,4,2.5,12,2160,172,36,97,3.74,Foreign
-VW Diesel,5397,41,5,3,15,2040,155,35,90,3.78,Foreign
-VW Rabbit,4697,25,4,3,15,1930,155,35,89,3.78,Foreign
-VW Scirocco,6850,25,4,2,16,1990,156,36,97,3.78,Foreign
-Volvo 260,11995,17,5,2.5,14,3170,193,37,163,2.98,Foreign
+make,model,price,mpg,rep77,rep78,headroom,rear_seat,trunk_space,weight,length,turn_circle,displacement,gear_ratio,foreign
+AMC,Concord,4099,22,2,3,2.5,27.5,11,2930,186,40,121,3.58,domestic
+AMC,Pacer,4749,17,1,3,3.0,25.5,11,3350,173,40,258,2.53,domestic
+AMC,Spirit,3799,22,,,3.0,18.5,12,2640,168,35,121,3.08,domestic
+Audi,5000,9690,17,2,5,3.0,27.0,15,2830,189,37,131,3.2,foreign
+Audi,Fox,6295,23,3,3,2.5,28.0,11,2070,174,36,97,3.7,foreign
+BMW,320i,9735,25,4,4,2.5,26.0,12,2650,177,34,121,3.64,foreign
+Buick,Century,4816,20,3,3,4.5,29.0,16,3250,196,40,196,2.93,domestic
+Buick,Electra,7827,15,4,4,4.0,31.5,20,4080,222,43,350,2.41,domestic
+Buick,Le Sabre,5788,18,4,3,4.0,30.5,21,3670,218,43,231,2.73,domestic
+Buick,Opel,4453,26,,,3.0,24.0,10,2230,170,34,304,2.87,domestic
+Buick,Regal,5189,20,3,3,2.0,28.5,16,3280,200,42,196,2.93,domestic
+Buick,Riviera,10372,16,4,3,3.5,30.0,17,3880,207,43,231,2.93,domestic
+Buick,Skylark,4082,19,3,3,3.5,27.0,13,3400,200,42,231,3.08,domestic
+Cadillac,Deville,11385,14,3,3,4.0,31.5,20,4330,221,44,425,2.28,domestic
+Cadillac,Eldorado,14500,14,2,2,3.5,30.0,16,3900,204,43,350,2.19,domestic
+Cadillac,Seville,15906,21,3,3,3.0,30.0,13,4290,204,45,350,2.24,domestic
+Chevrolet,Chevette,3299,29,3,3,2.5,26.0,9,2110,163,34,231,2.93,domestic
+Chevrolet,Impala,5705,16,4,4,4.0,29.5,20,3690,212,43,250,2.56,domestic
+Chevrolet,Malibu,4504,22,3,3,3.5,28.5,17,3180,193,41,200,2.73,domestic
+Chevrolet,Monte Carlo,5104,22,3,2,2.0,28.5,16,3220,200,41,200,2.73,domestic
+Chevrolet,Monza,3667,24,2,2,2.0,25.0,7,2750,179,40,151,2.73,domestic
+Chevrolet,Nova,3955,19,3,3,3.5,27.0,13,3430,197,43,250,2.56,domestic
+Datsun,200-SX,6229,23,3,4,1.5,21.0,6,2370,170,35,119,3.89,foreign
+Datsun,210,4589,35,5,5,2.0,23.5,8,2020,165,32,85,3.7,foreign
+Datsun,510,5079,24,4,4,2.5,22.0,8,2280,170,34,119,3.54,foreign
+Datsun,810,8129,21,4,4,2.5,27.0,8,2750,184,38,146,3.55,foreign
+Dodge,Colt,3984,30,4,5,2.0,24.0,8,2120,163,35,98,3.54,domestic
+Dodge,Diplomat,5010,18,2,2,4.0,29.0,17,3600,206,46,318,2.47,domestic
+Dodge,Magnum XE,5886,16,2,2,3.5,26.0,16,3870,216,48,318,2.71,domestic
+Dodge,St.Regis,6342,17,2,2,4.5,28.0,21,3740,220,46,225,2.94,domestic
+Fiat,Strada,4296,21,1,3,2.5,26.5,16,2130,161,36,105,3.37,foreign
+Ford,Fiesta,4389,28,,4,1.5,26.0,9,1800,147,33,98,3.15,domestic
+Ford,Mustang,4187,21,3,3,2.0,23.0,10,2650,179,42,140,3.08,domestic
+Honda,Accord,5799,25,5,5,3.0,25.5,10,2240,172,36,107,3.05,foreign
+Honda,Civic,4499,28,4,4,2.5,23.5,5,1760,149,34,91,3.3,foreign
+Lincoln,Continental,11497,12,4,3,3.5,30.5,22,4840,233,51,400,2.47,domestic
+Lincoln,Continental Mark V,13594,12,4,3,2.5,28.5,18,4720,230,48,400,2.47,domestic
+Lincoln,Versailles,13466,14,3,3,3.5,27.0,15,3830,201,41,302,2.47,domestic
+Mazda,GLC,3995,30,4,4,3.5,25.5,11,1980,154,33,86,3.73,foreign
+Mercury,Bobcat,3829,22,3,4,3.0,25.5,9,2580,169,39,140,2.73,domestic
+Mercury,Cougar,5379,14,3,4,3.5,29.5,16,4060,221,48,302,2.75,domestic
+Mercury,Cougar XR-7,6303,14,4,4,3.0,25.0,16,4130,217,45,302,2.75,domestic
+Mercury,Marquis,6165,15,2,3,3.5,30.5,23,3720,212,44,302,2.26,domestic
+Mercury,Monarch,4516,18,,3,3.0,27.0,15,3370,198,41,250,2.43,domestic
+Mercury,Zephyr,3291,20,3,3,3.5,29.0,17,2830,195,43,140,3.08,domestic
+Oldsmobile,98,8814,21,4,4,4.0,31.5,20,4060,220,43,350,2.41,domestic
+Oldsmobile,Cutlass,4733,19,3,3,4.5,28.0,16,3300,198,42,231,2.93,domestic
+Oldsmobile,Cutlass Supreme,5172,19,4,3,2.0,28.0,16,3310,198,42,231,2.93,domestic
+Oldsmobile,Delta 88,5890,18,4,4,4.0,29.0,20,3690,218,43,231,2.73,domestic
+Oldsmobile,Omega,4181,19,3,3,4.5,27.0,14,3370,200,40,231,3.08,domestic
+Oldsmobile,Starfire,4195,24,1,1,2.0,25.5,10,2730,180,43,151,2.73,domestic
+Oldsmobile,Toronado,10371,16,3,3,3.5,30.0,17,4030,206,38,350,2.41,domestic
+Peugeot,604 SL,12990,14,,,3.5,30.5,14,3420,192,37,163,3.58,foreign
+Plymouth,Arrow,4647,28,3,3,2.0,21.5,11,2360,170,37,156,3.05,domestic
+Plymouth,Champ,4425,34,4,5,2.5,23.0,11,1800,157,36,86,2.97,domestic
+Plymouth,Horizon,4482,25,,3,4.0,25.0,17,2200,165,38,105,3.37,domestic
+Plymouth,Sapporo,6486,26,,,1.5,22.0,8,2520,182,44,119,3.54,domestic
+Plymouth,Volare,4060,18,2,2,5.0,31.0,16,3330,201,42,225,3.23,domestic
+Pontiac,Catalina,5798,18,4,4,4.0,29.0,20,3700,214,42,231,2.73,domestic
+Pontiac,Firebird,4934,18,2,1,1.5,23.5,7,3470,198,45,231,3.08,domestic
+Pontiac,Grand Prix,5222,19,3,3,2.0,28.5,16,3210,201,40,231,2.93,domestic
+Pontiac,Le Mans,4723,19,3,3,3.5,28.0,17,3200,199,43,231,2.93,domestic
+Pontiac,Phoenix,4424,19,,,3.5,27.0,13,3420,203,41,231,3.08,domestic
+Pontiac,Sunbird,4172,24,2,2,2.0,25.0,7,2690,179,34,151,2.73,domestic
+Renault,Le Car,3895,26,3,3,3.0,23.0,10,1830,142,36,79,3.72,foreign
+Subaru,Subaru,3798,35,4,5,2.5,25.5,11,2050,164,36,97,3.81,foreign
+Toyota,Celica,5899,18,5,5,2.5,22.0,14,2410,174,35,134,3.06,foreign
+Toyota,Corolla,3748,31,5,5,3.0,24.5,9,2200,165,35,97,3.21,foreign
+Toyota,Corona,5719,18,5,5,2.0,23.0,11,2670,175,36,134,3.05,foreign
+VW,Rabbit,4697,25,3,4,3.0,25.5,15,1930,155,35,89,3.78,foreign
+VW,Rabbit Diesel,5397,41,4,5,3.0,25.5,15,2040,155,35,90,3.78,foreign
+VW,Scirocco,6850,25,3,4,2.0,23.5,16,1990,156,36,97,3.78,foreign
+VW,Dasher,7140,23,3,4,2.5,37.5,12,2160,172,36,97,3.74,foreign
+Volvo,260,11995,17,3,5,2.5,29.5,14,3170,193,37,163,2.98,foreign
