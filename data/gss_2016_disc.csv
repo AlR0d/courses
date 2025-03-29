@@ -1,0 +1,1457 @@
+age,female,black,white,born_usa,single,salary,degree,major,slf_emp,discrimination,happy,life
+72.0,0,0,1,yes,no,,bachelor,business administration,someone else,0,very happy,exciting
+55.0,1,0,1,yes,yes,1452.0,graduate,business administration,someone else,0,very happy,routine
+23.0,1,0,0,no,yes,11798.0,high school,,someone else,0,very happy,routine
+71.0,0,0,1,yes,yes,,junior college,law,someone else,0,pretty happy,exciting
+33.0,1,1,0,yes,,,high school,,someone else,1,,
+60.0,1,1,0,yes,yes,,high school,,someone else,0,very happy,routine
+33.0,1,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,exciting
+56.0,0,0,1,no,no,15428.0,high school,,someone else,0,very happy,exciting
+31.0,0,1,0,yes,,27225.0,graduate,education,someone else,0,pretty happy,
+32.0,1,1,0,yes,,,lt high school,,someone else,0,pretty happy,exciting
+23.0,1,0,0,no,,3267.0,lt high school,,someone else,0,very happy,
+37.0,1,0,1,yes,no,39930.0,high school,,someone else,0,very happy,exciting
+25.0,1,0,1,no,no,13612.0,junior college,visual arts/graphic design/design and drafting,someone else,0,pretty happy,exciting
+76.0,1,0,1,no,,,lt high school,,someone else,0,not too happy,
+22.0,0,1,0,yes,,,high school,,someone else,0,not too happy,
+75.0,1,0,1,yes,yes,,high school,,someone else,1,not too happy,exciting
+68.0,1,0,1,yes,no,39930.0,high school,,someone else,0,pretty happy,exciting
+46.0,0,1,0,no,no,,high school,,someone else,0,pretty happy,routine
+59.0,0,0,1,yes,,13612.0,bachelor,business administration,someone else,1,not too happy,
+58.0,1,0,1,yes,no,87120.0,bachelor,music,someone else,0,very happy,exciting
+40.0,1,0,1,yes,yes,13612.0,high school,,someone else,0,pretty happy,routine
+36.0,1,0,1,no,yes,23595.0,graduate,other,someone else,0,not too happy,exciting
+70.0,0,0,1,no,,,high school,,someone else,0,very happy,
+28.0,0,0,1,yes,yes,59895.0,high school,,someone else,0,very happy,routine
+23.0,0,0,1,no,yes,,bachelor,physics,,1,pretty happy,exciting
+47.0,1,0,1,yes,,87120.0,graduate,law,someone else,0,very happy,
+20.0,0,0,1,yes,,1452.0,high school,,someone else,0,very happy,
+41.0,0,0,1,yes,yes,189211.0,graduate,law,someone else,0,very happy,exciting
+40.0,1,0,1,yes,,17242.0,graduate,mathmatics,someone else,0,pretty happy,
+59.0,1,0,1,yes,yes,6534.0,graduate,law,someone else,1,pretty happy,exciting
+26.0,0,1,0,yes,,15428.0,high school,,someone else,0,pretty happy,exciting
+51.0,1,1,0,yes,no,,high school,,,1,,routine
+39.0,1,1,0,yes,,15428.0,high school,,someone else,0,not too happy,
+30.0,0,0,0,yes,no,19965.0,lt high school,,someone else,1,pretty happy,dull
+70.0,0,1,0,no,,,high school,,someone else,0,not too happy,
+78.0,1,0,1,yes,yes,,graduate,psychology,self-employed,0,very happy,exciting
+41.0,0,1,0,yes,,,high school,,someone else,0,very happy,exciting
+35.0,1,0,1,yes,yes,49005.0,junior college,food science/nutrition/culinary arts,someone else,1,not too happy,exciting
+44.0,0,0,1,yes,yes,59895.0,high school,,someone else,0,very happy,exciting
+41.0,0,0,1,no,yes,39930.0,junior college,visual arts/graphic design/design and drafting,someone else,0,pretty happy,routine
+45.0,1,0,1,yes,,59895.0,bachelor,education,someone else,0,pretty happy,
+41.0,1,0,1,no,no,13612.0,high school,,someone else,0,very happy,exciting
+68.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+50.0,0,0,1,yes,yes,72600.0,bachelor,biology,someone else,0,pretty happy,routine
+40.0,0,0,1,yes,yes,101640.0,graduate,geography,someone else,0,pretty happy,exciting
+58.0,0,0,1,yes,,39930.0,high school,,self-employed,0,pretty happy,
+33.0,0,0,0,no,yes,6534.0,graduate,engineering,someone else,0,pretty happy,exciting
+27.0,0,0,1,yes,yes,49005.0,bachelor,business administration,self-employed,0,pretty happy,routine
+58.0,1,1,0,no,no,23595.0,bachelor,social work,someone else,0,pretty happy,exciting
+66.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+,1,0,1,yes,,,high school,,someone else,0,pretty happy,routine
+29.0,1,0,0,yes,no,,junior college,psychology,someone else,0,pretty happy,routine
+78.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+25.0,1,0,1,yes,no,,bachelor,theology,someone else,0,very happy,exciting
+54.0,1,0,1,yes,yes,,bachelor,accounting/bookkeeping,someone else,0,very happy,routine
+48.0,0,0,1,no,,72600.0,high school,,someone else,0,pretty happy,
+29.0,1,0,1,no,yes,,bachelor,business administration,self-employed,1,pretty happy,routine
+75.0,1,0,1,yes,yes,,bachelor,biology,someone else,0,very happy,exciting
+81.0,0,0,1,yes,yes,,high school,,self-employed,0,very happy,routine
+69.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+52.0,1,0,1,yes,yes,13612.0,high school,,someone else,0,very happy,exciting
+33.0,1,0,1,yes,yes,,bachelor,biology,someone else,0,pretty happy,routine
+21.0,0,0,1,yes,,,high school,,,0,very happy,
+26.0,0,0,1,yes,yes,59895.0,bachelor,finance,someone else,0,very happy,routine
+33.0,1,0,1,yes,,49005.0,bachelor,other,someone else,0,pretty happy,
+68.0,0,1,0,yes,,,high school,,someone else,0,pretty happy,
+60.0,1,1,0,yes,yes,3267.0,high school,,someone else,1,pretty happy,exciting
+47.0,1,1,0,yes,yes,32670.0,high school,,someone else,1,not too happy,routine
+,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+64.0,1,0,1,yes,no,1452.0,high school,,someone else,1,not too happy,dull
+62.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,exciting
+65.0,1,0,1,yes,no,,junior college,business administration,someone else,1,very happy,exciting
+47.0,1,0,1,yes,yes,,bachelor,social work,someone else,0,pretty happy,routine
+62.0,0,0,1,yes,,49005.0,junior college,criminology/criminal justice,someone else,0,pretty happy,
+43.0,1,0,1,yes,yes,189211.0,bachelor,mathmatics,someone else,1,pretty happy,routine
+47.0,0,0,0,no,,189211.0,high school,,someone else,0,pretty happy,
+39.0,0,0,1,yes,yes,32670.0,graduate,music,self-employed,0,pretty happy,exciting
+52.0,1,0,0,yes,no,,high school,,someone else,0,very happy,exciting
+58.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,pretty happy,routine
+52.0,1,0,0,no,no,17242.0,bachelor,child/human/family development,self-employed,0,pretty happy,routine
+25.0,1,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+61.0,1,0,1,yes,no,9982.0,high school,,someone else,1,not too happy,dull
+41.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,routine
+57.0,1,0,1,yes,,1452.0,high school,,self-employed,0,pretty happy,
+50.0,0,1,0,yes,yes,59895.0,high school,,self-employed,0,pretty happy,exciting
+75.0,0,1,0,yes,no,,high school,,someone else,0,not too happy,exciting
+22.0,1,1,0,yes,,,lt high school,,someone else,0,not too happy,
+27.0,0,0,1,yes,yes,13612.0,lt high school,,someone else,1,pretty happy,routine
+55.0,0,0,1,yes,yes,72600.0,graduate,business administration,someone else,0,pretty happy,exciting
+49.0,1,0,1,no,,,high school,,someone else,1,not too happy,
+41.0,1,0,0,no,yes,,graduate,business administration,someone else,0,pretty happy,exciting
+67.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,routine
+76.0,1,0,0,no,no,27225.0,graduate,health,someone else,1,not too happy,exciting
+84.0,1,0,0,no,no,,bachelor,english,someone else,1,pretty happy,
+46.0,0,1,0,yes,yes,3267.0,bachelor,other,someone else,1,pretty happy,exciting
+25.0,0,0,0,no,,,high school,,someone else,0,very happy,
+67.0,0,0,1,yes,yes,,graduate,liberal arts,someone else,0,pretty happy,routine
+51.0,1,0,1,no,,,lt high school,,someone else,0,pretty happy,
+39.0,1,0,0,no,no,11798.0,high school,,someone else,1,pretty happy,routine
+51.0,1,0,1,no,no,11798.0,lt high school,,someone else,0,very happy,exciting
+38.0,0,0,1,yes,,39930.0,junior college,sociology,someone else,0,very happy,
+79.0,1,0,1,yes,yes,,high school,,someone else,1,very happy,exciting
+55.0,0,0,1,yes,,72600.0,high school,,self-employed,0,pretty happy,
+30.0,0,0,1,yes,,59895.0,bachelor,economics,someone else,0,very happy,
+37.0,0,0,1,yes,yes,4719.0,bachelor,television/film,someone else,0,very happy,routine
+67.0,1,0,1,yes,,15428.0,graduate,physics,self-employed,1,pretty happy,
+81.0,1,0,1,yes,,,high school,,someone else,1,not too happy,
+37.0,0,0,1,yes,,87120.0,high school,,someone else,0,very happy,
+45.0,1,0,1,yes,no,,bachelor,marketing,someone else,0,very happy,exciting
+76.0,1,0,1,yes,,,graduate,special education,someone else,0,very happy,
+77.0,0,0,1,yes,no,23595.0,high school,,someone else,1,pretty happy,routine
+41.0,0,0,1,yes,yes,87120.0,bachelor,engineering,someone else,0,very happy,routine
+50.0,0,0,0,no,,15428.0,lt high school,,someone else,0,very happy,routine
+25.0,0,0,0,yes,yes,17242.0,high school,,someone else,0,pretty happy,exciting
+45.0,0,0,1,yes,yes,189211.0,graduate,business administration,someone else,0,very happy,exciting
+21.0,0,0,1,yes,,,junior college,physical education,someone else,0,pretty happy,
+25.0,0,0,0,no,no,39930.0,graduate,engineering,someone else,0,pretty happy,exciting
+33.0,1,0,1,yes,no,23595.0,bachelor,television/film,someone else,1,pretty happy,exciting
+72.0,0,0,1,yes,,,bachelor,computer science,someone else,0,pretty happy,
+66.0,1,0,1,yes,no,,bachelor,health,someone else,0,very happy,exciting
+81.0,0,0,1,yes,yes,,graduate,business administration,someone else,0,pretty happy,exciting
+23.0,0,0,1,yes,,363.0,bachelor,marketing,someone else,0,pretty happy,
+62.0,1,0,1,yes,no,8168.0,bachelor,business administration,someone else,0,pretty happy,exciting
+43.0,0,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,routine
+37.0,0,0,0,yes,,39930.0,high school,,someone else,1,pretty happy,
+42.0,0,0,1,yes,,49005.0,high school,,someone else,0,very happy,
+36.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,exciting
+49.0,0,0,1,yes,,59895.0,junior college,accounting/bookkeeping,someone else,0,pretty happy,
+35.0,1,0,1,yes,yes,,bachelor,physical education,self-employed,0,pretty happy,routine
+47.0,0,0,1,yes,,,bachelor,business administration,someone else,0,pretty happy,
+29.0,0,1,0,yes,,11798.0,bachelor,television/film,someone else,0,pretty happy,
+19.0,0,1,0,yes,yes,,high school,,,1,not too happy,exciting
+25.0,0,1,0,yes,,23595.0,high school,,someone else,0,pretty happy,
+35.0,1,0,1,yes,no,59895.0,graduate,education,someone else,0,pretty happy,routine
+20.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,exciting
+42.0,0,0,1,yes,,13612.0,high school,,someone else,0,very happy,
+58.0,1,0,1,no,,27225.0,junior college,nursing,someone else,0,not too happy,
+44.0,0,0,1,no,no,49005.0,lt high school,,someone else,0,pretty happy,exciting
+75.0,1,0,1,yes,,,graduate,art,someone else,1,very happy,
+44.0,1,0,1,yes,,,graduate,health,someone else,0,very happy,exciting
+37.0,0,0,1,yes,,,bachelor,business administration,someone else,0,very happy,
+48.0,0,0,1,no,no,,high school,,self-employed,0,pretty happy,routine
+59.0,0,0,1,yes,no,27225.0,bachelor,communications/speech,self-employed,0,very happy,exciting
+61.0,1,0,1,yes,,27225.0,junior college,english,someone else,1,pretty happy,
+47.0,1,0,1,no,no,,high school,,,1,pretty happy,exciting
+38.0,0,1,0,yes,yes,59895.0,junior college,communications/speech,someone else,0,pretty happy,exciting
+47.0,0,1,0,no,,,junior college,law,someone else,0,very happy,
+28.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,exciting
+61.0,0,0,1,yes,,32670.0,bachelor,political science/international relations,self-employed,0,pretty happy,
+41.0,0,0,1,no,no,19965.0,lt high school,,self-employed,0,very happy,exciting
+22.0,1,0,0,no,,363.0,high school,,self-employed,1,pretty happy,
+36.0,1,0,0,yes,yes,,bachelor,human services/human resources,someone else,0,very happy,exciting
+40.0,0,1,0,yes,,27225.0,bachelor,architecture,someone else,1,pretty happy,
+63.0,1,1,0,yes,yes,,lt high school,,someone else,0,not too happy,routine
+60.0,0,1,0,yes,,3267.0,high school,,someone else,0,pretty happy,
+52.0,1,0,0,no,,6534.0,lt high school,,self-employed,0,pretty happy,
+,0,0,1,yes,,116160.0,graduate,business administration,someone else,0,pretty happy,
+58.0,0,0,1,yes,,189211.0,bachelor,engineering,someone else,0,pretty happy,
+60.0,0,0,1,yes,yes,72600.0,high school,,someone else,0,very happy,exciting
+69.0,0,0,1,yes,yes,11798.0,bachelor,philosophy,someone else,0,pretty happy,exciting
+66.0,0,0,1,yes,,72600.0,high school,,someone else,0,very happy,
+37.0,0,0,1,yes,,17242.0,high school,,someone else,0,very happy,
+27.0,1,0,0,yes,no,,lt high school,,,1,pretty happy,exciting
+60.0,1,0,1,yes,,72600.0,bachelor,english,someone else,0,pretty happy,
+32.0,1,0,1,no,no,,high school,,someone else,0,not too happy,routine
+39.0,0,0,1,no,no,32670.0,high school,,someone else,0,pretty happy,routine
+56.0,0,0,1,yes,yes,,high school,,self-employed,0,pretty happy,exciting
+22.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+35.0,0,0,0,no,no,39930.0,high school,,someone else,0,not too happy,exciting
+58.0,0,0,1,yes,no,116160.0,bachelor,agriculture/horticulture,someone else,0,very happy,exciting
+20.0,0,0,1,yes,,2541.0,high school,,someone else,1,pretty happy,
+44.0,0,0,1,yes,yes,59895.0,graduate,urban and regional planning,someone else,0,very happy,exciting
+62.0,1,0,1,yes,no,116160.0,graduate,health,someone else,0,very happy,exciting
+59.0,0,0,1,yes,,11798.0,bachelor,english,someone else,1,pretty happy,
+51.0,1,0,1,yes,no,32670.0,bachelor,business administration,someone else,1,pretty happy,exciting
+50.0,0,0,1,yes,,,graduate,No answer,someone else,0,pretty happy,
+52.0,1,0,1,yes,no,3267.0,high school,,self-employed,0,very happy,routine
+64.0,1,0,1,yes,no,,high school,,someone else,1,very happy,routine
+62.0,1,1,0,yes,yes,8168.0,graduate,business administration,someone else,1,pretty happy,exciting
+35.0,1,0,0,no,no,19965.0,bachelor,art,someone else,0,pretty happy,exciting
+60.0,0,0,1,yes,,59895.0,junior college,engineering,someone else,0,pretty happy,
+36.0,1,1,0,yes,no,49005.0,junior college,theater arts,someone else,0,pretty happy,routine
+30.0,0,0,1,yes,yes,49005.0,high school,,someone else,0,pretty happy,exciting
+27.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+60.0,1,0,1,yes,yes,39930.0,high school,,someone else,0,pretty happy,exciting
+42.0,1,0,1,yes,,32670.0,high school,,someone else,0,not too happy,
+47.0,0,0,1,yes,yes,8168.0,high school,,self-employed,0,very happy,routine
+41.0,1,0,0,no,yes,189211.0,graduate,medicine,someone else,0,very happy,exciting
+47.0,1,0,1,no,,,graduate,counseling,someone else,0,very happy,
+64.0,0,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+61.0,1,0,1,no,,,high school,,someone else,0,pretty happy,
+31.0,0,1,0,yes,,39930.0,high school,,someone else,0,very happy,
+,0,0,1,yes,yes,189211.0,high school,,someone else,0,pretty happy,routine
+,0,0,1,yes,,1452.0,graduate,education,someone else,0,pretty happy,
+40.0,1,1,0,yes,yes,23595.0,high school,,someone else,0,pretty happy,routine
+71.0,1,1,0,yes,yes,,bachelor,accounting/bookkeeping,someone else,0,pretty happy,routine
+29.0,1,1,0,no,,27225.0,bachelor,health,someone else,0,pretty happy,
+74.0,1,0,1,yes,yes,,bachelor,history,someone else,0,very happy,exciting
+65.0,1,1,0,no,no,19965.0,bachelor,social work,someone else,1,very happy,exciting
+41.0,1,1,0,no,no,23595.0,high school,,self-employed,0,pretty happy,exciting
+38.0,0,0,1,yes,yes,49005.0,graduate,sociology,someone else,0,pretty happy,routine
+49.0,0,0,1,yes,,72600.0,high school,,someone else,1,pretty happy,
+25.0,0,0,1,no,no,23595.0,bachelor,engineering,someone else,0,very happy,routine
+26.0,1,1,0,no,yes,13612.0,high school,,someone else,0,not too happy,exciting
+59.0,0,0,1,yes,no,59895.0,lt high school,,self-employed,1,pretty happy,exciting
+45.0,1,0,1,yes,no,59895.0,junior college,nursing,someone else,0,pretty happy,routine
+34.0,0,1,0,yes,,27225.0,high school,,someone else,0,pretty happy,
+66.0,1,0,1,yes,yes,,high school,,someone else,0,very happy,exciting
+59.0,1,0,0,no,,72600.0,graduate,english,someone else,0,very happy,
+68.0,0,0,1,yes,,,graduate,political science/international relations,someone else,0,pretty happy,
+37.0,0,0,1,yes,no,27225.0,bachelor,biology,someone else,0,pretty happy,exciting
+37.0,0,0,1,yes,,101640.0,high school,,self-employed,0,pretty happy,
+25.0,0,1,0,yes,no,32670.0,high school,,someone else,0,pretty happy,exciting
+21.0,0,0,1,yes,,23595.0,high school,,someone else,0,pretty happy,
+53.0,1,0,1,yes,yes,72600.0,graduate,nursing,self-employed,0,very happy,exciting
+53.0,1,0,1,yes,,363.0,bachelor,business administration,someone else,0,pretty happy,exciting
+26.0,1,0,0,yes,no,23595.0,lt high school,,someone else,1,pretty happy,exciting
+25.0,1,0,0,no,no,,high school,,someone else,1,not too happy,dull
+44.0,0,0,0,no,no,49005.0,lt high school,,someone else,0,very happy,exciting
+29.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,exciting
+48.0,1,1,0,yes,,,lt high school,,someone else,0,very happy,
+29.0,1,0,1,yes,yes,59895.0,bachelor,finance,someone else,1,very happy,exciting
+48.0,0,0,1,yes,,,graduate,other,someone else,0,pretty happy,
+30.0,0,0,1,yes,yes,,bachelor,biology,someone else,0,very happy,exciting
+56.0,0,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,routine
+,1,0,0,yes,,,high school,,someone else,0,very happy,
+19.0,1,0,1,yes,,5445.0,high school,,someone else,0,pretty happy,
+67.0,0,0,1,yes,yes,39930.0,high school,,someone else,1,pretty happy,routine
+63.0,1,0,1,yes,yes,,high school,,self-employed,0,not too happy,exciting
+37.0,1,0,1,yes,no,59895.0,bachelor,political science/international relations,someone else,0,very happy,routine
+58.0,1,0,1,yes,yes,189211.0,graduate,medicine,someone else,0,pretty happy,exciting
+64.0,1,0,1,yes,,,graduate,marketing,someone else,0,pretty happy,
+37.0,1,0,1,yes,yes,189211.0,graduate,psychology,self-employed,0,pretty happy,routine
+31.0,0,0,1,yes,yes,39930.0,bachelor,history,someone else,0,very happy,exciting
+64.0,0,0,1,yes,,32670.0,bachelor,visual arts/graphic design/design and drafting,self-employed,0,very happy,
+59.0,1,0,1,no,yes,87120.0,graduate,education,someone else,0,pretty happy,exciting
+59.0,1,0,1,yes,yes,59895.0,graduate,education,someone else,0,pretty happy,exciting
+71.0,0,0,1,yes,,87120.0,bachelor,engineering,someone else,0,pretty happy,
+28.0,0,0,1,no,yes,39930.0,graduate,music,someone else,0,very happy,routine
+76.0,1,1,0,yes,,,high school,,someone else,1,pretty happy,
+34.0,1,0,0,yes,yes,5445.0,graduate,medicine,someone else,1,pretty happy,exciting
+27.0,0,0,1,yes,yes,32670.0,bachelor,history,someone else,0,pretty happy,routine
+26.0,1,0,1,yes,no,6534.0,bachelor,psychology,someone else,0,very happy,exciting
+44.0,1,0,1,yes,no,59895.0,graduate,marketing,self-employed,0,pretty happy,routine
+84.0,0,0,1,yes,,,junior college,law enforcement,someone else,0,not too happy,
+37.0,0,0,1,yes,yes,72600.0,high school,,self-employed,0,pretty happy,exciting
+82.0,1,0,1,yes,no,,junior college,accounting/bookkeeping,self-employed,0,pretty happy,exciting
+29.0,0,0,0,no,no,23595.0,high school,,someone else,0,very happy,routine
+32.0,0,0,0,no,yes,13612.0,graduate,environmental science/ecology,someone else,0,not too happy,exciting
+23.0,1,0,0,no,,,high school,,,0,very happy,
+42.0,1,0,1,yes,,39930.0,high school,,someone else,0,pretty happy,
+58.0,1,0,1,yes,yes,13612.0,high school,,someone else,1,very happy,routine
+33.0,1,0,1,yes,,6534.0,high school,,someone else,1,pretty happy,
+22.0,0,0,1,yes,yes,23595.0,junior college,computer science,someone else,0,not too happy,routine
+24.0,1,0,1,yes,yes,5445.0,high school,,someone else,0,pretty happy,dull
+32.0,1,1,0,yes,no,8168.0,high school,,someone else,0,pretty happy,routine
+19.0,0,0,1,yes,,,lt high school,,,0,very happy,
+54.0,1,0,1,yes,yes,39930.0,bachelor,accounting/bookkeeping,someone else,0,pretty happy,routine
+42.0,1,0,1,yes,yes,59895.0,bachelor,social work,someone else,0,pretty happy,routine
+65.0,1,0,1,yes,,32670.0,high school,,someone else,0,not too happy,
+59.0,1,0,1,yes,no,49005.0,junior college,nursing,someone else,0,very happy,exciting
+51.0,0,0,1,yes,no,49005.0,high school,,someone else,0,pretty happy,routine
+69.0,0,0,1,yes,,49005.0,high school,,self-employed,0,pretty happy,
+24.0,0,0,1,yes,,3267.0,high school,,someone else,0,not too happy,exciting
+45.0,1,0,1,yes,,189211.0,graduate,medicine,self-employed,0,very happy,
+33.0,0,0,1,yes,yes,189211.0,bachelor,computer science,someone else,0,pretty happy,routine
+78.0,1,0,1,no,,,bachelor,education,someone else,0,very happy,
+69.0,0,0,1,no,yes,,graduate,biology,someone else,0,very happy,exciting
+74.0,1,0,1,yes,yes,,bachelor,general sciences,someone else,0,pretty happy,exciting
+76.0,0,0,0,no,,,bachelor,education,someone else,0,not too happy,
+47.0,0,1,0,yes,yes,39930.0,lt high school,,someone else,1,pretty happy,routine
+31.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+58.0,1,0,1,yes,yes,,bachelor,biology,someone else,0,pretty happy,routine
+47.0,1,0,1,yes,,27225.0,graduate,psychology,self-employed,1,pretty happy,
+27.0,1,1,0,yes,yes,,graduate,law,self-employed,1,not too happy,exciting
+32.0,1,1,0,yes,yes,32670.0,high school,,someone else,0,pretty happy,routine
+19.0,1,0,0,yes,yes,,high school,,someone else,0,not too happy,routine
+44.0,1,0,0,no,,19965.0,high school,,someone else,0,not too happy,
+41.0,0,0,1,yes,yes,,lt high school,,someone else,0,not too happy,routine
+36.0,0,1,0,yes,,3267.0,junior college,mathmatics,someone else,1,pretty happy,
+33.0,0,0,0,no,yes,101640.0,graduate,computer science,someone else,0,pretty happy,routine
+60.0,1,0,1,yes,yes,49005.0,graduate,dentistry,someone else,1,pretty happy,exciting
+45.0,1,0,0,no,no,,lt high school,,,0,pretty happy,exciting
+70.0,1,0,1,yes,yes,,graduate,education,someone else,0,not too happy,routine
+37.0,1,0,1,yes,no,27225.0,high school,,someone else,0,not too happy,routine
+39.0,1,0,1,yes,yes,,bachelor,education,someone else,0,very happy,exciting
+55.0,1,1,0,yes,yes,23595.0,high school,,someone else,0,very happy,exciting
+58.0,0,0,1,yes,,49005.0,high school,,someone else,0,pretty happy,
+64.0,1,0,1,yes,yes,8168.0,lt high school,,someone else,0,pretty happy,routine
+32.0,0,0,1,yes,,11798.0,bachelor,philosophy,someone else,0,not too happy,
+40.0,1,1,0,yes,,4719.0,high school,,self-employed,0,not too happy,
+38.0,0,0,1,yes,yes,,high school,,someone else,1,not too happy,routine
+63.0,1,0,1,yes,,,bachelor,education,someone else,0,pretty happy,
+49.0,1,0,0,no,,,graduate,finance,someone else,0,pretty happy,exciting
+74.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,dull
+42.0,0,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,routine
+66.0,0,0,1,yes,,8168.0,lt high school,,someone else,0,pretty happy,
+51.0,0,1,0,yes,no,,high school,,someone else,0,not too happy,exciting
+54.0,1,0,1,yes,yes,3993.0,lt high school,,self-employed,0,pretty happy,exciting
+55.0,0,1,0,yes,,,high school,,self-employed,1,pretty happy,
+33.0,1,0,1,yes,no,11798.0,junior college,health,someone else,1,pretty happy,routine
+48.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+72.0,1,0,1,yes,no,,graduate,art,someone else,1,pretty happy,exciting
+53.0,0,0,1,yes,,116160.0,graduate,business administration,someone else,1,pretty happy,
+75.0,1,0,1,yes,no,,junior college,medicine,someone else,0,pretty happy,exciting
+80.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,routine
+67.0,0,0,1,yes,yes,,high school,,someone else,0,very happy,exciting
+69.0,0,0,1,no,,,junior college,business administration,someone else,1,pretty happy,
+34.0,0,1,0,yes,,87120.0,bachelor,communications/speech,self-employed,1,pretty happy,
+47.0,1,1,0,yes,no,4719.0,high school,,someone else,0,pretty happy,exciting
+57.0,0,0,1,yes,no,59895.0,high school,,someone else,0,not too happy,dull
+58.0,1,0,1,yes,no,189211.0,graduate,general sciences,someone else,1,very happy,exciting
+26.0,1,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,routine
+44.0,0,0,0,no,,,lt high school,,someone else,1,pretty happy,
+68.0,1,1,0,yes,,,lt high school,,someone else,0,very happy,
+57.0,1,1,0,yes,no,17242.0,high school,,someone else,0,pretty happy,routine
+48.0,1,0,1,yes,yes,,bachelor,journalism,someone else,0,pretty happy,routine
+36.0,1,0,1,yes,,,graduate,education,self-employed,1,pretty happy,
+55.0,0,0,1,yes,yes,,bachelor,communications/speech,self-employed,1,not too happy,exciting
+69.0,1,0,1,yes,yes,39930.0,high school,,someone else,1,very happy,routine
+75.0,0,0,1,yes,,9982.0,bachelor,accounting/bookkeeping,someone else,0,very happy,routine
+51.0,1,0,1,yes,yes,13612.0,graduate,education,someone else,0,pretty happy,routine
+44.0,1,0,0,yes,yes,,lt high school,,someone else,0,pretty happy,exciting
+49.0,1,0,1,yes,,,high school,,someone else,0,not too happy,
+48.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+34.0,1,0,0,yes,,72600.0,bachelor,business administration,someone else,1,pretty happy,
+44.0,1,1,0,yes,,,junior college,nursing,someone else,0,very happy,
+77.0,1,1,0,yes,,,lt high school,,,0,very happy,
+47.0,0,1,0,yes,yes,,high school,,someone else,0,pretty happy,exciting
+58.0,0,1,0,yes,yes,,high school,,someone else,0,very happy,exciting
+83.0,1,1,0,yes,no,,high school,,someone else,0,pretty happy,routine
+23.0,0,0,1,yes,yes,,high school,,,0,not too happy,routine
+79.0,1,0,1,yes,no,,bachelor,education,someone else,0,pretty happy,exciting
+40.0,0,0,1,yes,yes,49005.0,high school,,someone else,0,very happy,routine
+27.0,0,1,0,yes,yes,23595.0,high school,,someone else,0,not too happy,routine
+66.0,1,0,1,yes,,13612.0,junior college,general sciences,someone else,1,pretty happy,
+27.0,1,0,1,yes,yes,11798.0,high school,,someone else,1,pretty happy,routine
+28.0,1,0,0,no,,9982.0,high school,,someone else,0,pretty happy,
+39.0,0,0,0,no,yes,72600.0,graduate,information technology,someone else,0,very happy,exciting
+27.0,0,0,1,yes,,17242.0,bachelor,biology,someone else,0,pretty happy,
+28.0,0,0,1,yes,yes,59895.0,high school,,someone else,0,pretty happy,exciting
+50.0,0,1,0,yes,,49005.0,bachelor,english,someone else,0,pretty happy,
+30.0,0,1,0,yes,no,32670.0,high school,,someone else,1,very happy,exciting
+68.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,dull
+60.0,1,1,0,yes,no,17242.0,high school,,someone else,0,not too happy,routine
+48.0,1,1,0,no,no,17242.0,high school,,someone else,0,not too happy,exciting
+27.0,0,1,0,yes,no,39930.0,high school,,someone else,0,pretty happy,routine
+79.0,0,1,0,yes,,,lt high school,,someone else,0,pretty happy,
+32.0,0,0,0,yes,no,4719.0,high school,,self-employed,1,pretty happy,exciting
+21.0,0,1,0,yes,no,,high school,,someone else,1,pretty happy,routine
+42.0,0,0,1,no,,72600.0,lt high school,,self-employed,0,pretty happy,
+40.0,0,0,0,no,yes,32670.0,high school,,someone else,0,pretty happy,exciting
+44.0,0,0,1,yes,,,lt high school,,self-employed,0,not too happy,
+36.0,1,1,0,no,,4719.0,bachelor,social work,someone else,0,pretty happy,
+51.0,1,0,1,no,no,,lt high school,,someone else,0,very happy,exciting
+54.0,0,0,1,no,,27225.0,lt high school,,someone else,1,not too happy,
+37.0,0,1,0,no,yes,3993.0,high school,,someone else,1,pretty happy,exciting
+50.0,1,0,1,no,,1452.0,bachelor,education,someone else,1,not too happy,
+44.0,0,0,0,no,no,15428.0,lt high school,,someone else,0,very happy,exciting
+28.0,1,0,0,no,no,,high school,,,0,pretty happy,routine
+40.0,1,0,1,no,,,high school,,someone else,0,pretty happy,
+27.0,0,0,1,yes,no,49005.0,junior college,business administration,self-employed,1,very happy,routine
+53.0,1,0,1,no,no,3993.0,high school,,someone else,1,not too happy,routine
+42.0,0,0,1,yes,,27225.0,high school,,someone else,1,very happy,
+60.0,1,0,1,no,no,1452.0,lt high school,,someone else,0,very happy,routine
+60.0,0,0,1,yes,yes,101640.0,bachelor,economics,someone else,0,pretty happy,routine
+30.0,1,1,0,yes,,363.0,high school,,someone else,1,not too happy,
+37.0,1,0,1,yes,,17242.0,junior college,education,someone else,0,not too happy,exciting
+40.0,1,0,1,no,yes,4719.0,high school,,someone else,1,not too happy,routine
+51.0,1,1,0,yes,yes,27225.0,high school,,someone else,1,very happy,exciting
+46.0,0,0,1,yes,,49005.0,junior college,electronics,someone else,0,very happy,
+,1,1,0,yes,,,graduate,business administration,someone else,1,pretty happy,exciting
+56.0,1,0,1,yes,no,23595.0,bachelor,business administration,someone else,0,very happy,exciting
+61.0,0,0,1,yes,yes,,high school,,someone else,1,pretty happy,routine
+19.0,1,0,1,yes,,,high school,,,0,pretty happy,
+28.0,1,1,0,no,no,8168.0,bachelor,business administration,someone else,1,not too happy,exciting
+29.0,1,1,0,yes,no,17242.0,high school,,someone else,0,pretty happy,routine
+35.0,0,1,0,yes,,19965.0,bachelor,business administration,someone else,0,pretty happy,
+38.0,1,1,0,yes,no,8168.0,high school,,someone else,0,pretty happy,exciting
+31.0,1,1,0,yes,,32670.0,junior college,education,someone else,0,pretty happy,
+42.0,1,1,0,yes,,11798.0,high school,,someone else,0,pretty happy,
+78.0,0,0,1,no,yes,,graduate,physics,someone else,0,pretty happy,dull
+48.0,1,0,1,yes,yes,49005.0,bachelor,business administration,someone else,0,pretty happy,exciting
+42.0,0,1,0,yes,no,32670.0,high school,,someone else,0,very happy,exciting
+51.0,0,0,1,yes,no,8168.0,lt high school,,someone else,0,pretty happy,routine
+28.0,1,0,1,yes,yes,27225.0,lt high school,,someone else,1,very happy,exciting
+20.0,1,0,1,yes,,,high school,,,0,very happy,
+53.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+51.0,0,0,1,yes,yes,72600.0,bachelor,marketing,someone else,0,pretty happy,exciting
+65.0,0,1,0,yes,no,,high school,,someone else,0,not too happy,routine
+57.0,0,1,0,yes,yes,13612.0,high school,,self-employed,1,pretty happy,exciting
+70.0,1,0,1,yes,,,high school,,someone else,0,not too happy,
+53.0,1,1,0,yes,no,,high school,,,0,very happy,exciting
+59.0,1,1,0,yes,,,high school,,someone else,0,pretty happy,
+21.0,1,1,0,yes,yes,,high school,,,0,pretty happy,routine
+59.0,0,0,1,yes,,32670.0,lt high school,,someone else,0,pretty happy,
+56.0,0,0,1,no,,19965.0,junior college,library science,someone else,1,very happy,
+56.0,1,1,0,yes,,23595.0,high school,,someone else,0,pretty happy,
+87.0,1,1,0,yes,no,,high school,,someone else,0,very happy,exciting
+51.0,0,1,0,no,,19965.0,high school,,someone else,0,not too happy,routine
+56.0,1,1,0,yes,,23595.0,high school,,someone else,1,pretty happy,
+27.0,1,1,0,yes,yes,1452.0,high school,,someone else,0,not too happy,exciting
+31.0,1,0,1,no,no,11798.0,high school,,someone else,0,very happy,exciting
+54.0,1,0,1,yes,yes,,bachelor,geology,someone else,1,pretty happy,exciting
+45.0,1,0,1,yes,yes,,bachelor,health,someone else,0,pretty happy,routine
+56.0,1,0,1,yes,yes,,bachelor,business administration,someone else,0,very happy,exciting
+58.0,1,1,0,yes,no,,bachelor,child/human/family development,someone else,0,pretty happy,routine
+59.0,0,1,0,yes,,23595.0,high school,,someone else,1,pretty happy,
+54.0,1,1,0,yes,no,,bachelor,biology,someone else,0,not too happy,exciting
+47.0,1,1,0,yes,yes,9982.0,high school,,self-employed,0,pretty happy,exciting
+63.0,1,1,0,yes,no,,lt high school,,someone else,0,not too happy,routine
+32.0,1,1,0,yes,yes,32670.0,bachelor,other,someone else,0,not too happy,exciting
+23.0,1,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,exciting
+53.0,1,0,1,yes,,49005.0,bachelor,nursing,someone else,1,not too happy,
+38.0,1,1,0,yes,no,32670.0,high school,,someone else,0,not too happy,exciting
+66.0,1,0,1,yes,yes,49005.0,bachelor,economics,someone else,0,pretty happy,routine
+54.0,0,0,1,yes,yes,116160.0,graduate,business administration,someone else,0,very happy,routine
+58.0,0,0,1,yes,no,189211.0,bachelor,finance,someone else,0,not too happy,exciting
+47.0,0,0,1,yes,,189211.0,graduate,business administration,someone else,0,pretty happy,
+66.0,1,0,1,yes,no,,bachelor,business administration,someone else,0,very happy,exciting
+27.0,0,0,1,yes,yes,19965.0,high school,,someone else,1,pretty happy,exciting
+54.0,0,0,1,no,,11798.0,high school,,someone else,0,pretty happy,
+54.0,0,0,1,yes,no,15428.0,junior college,social work,someone else,0,pretty happy,exciting
+51.0,1,0,1,yes,,4719.0,high school,,someone else,0,pretty happy,
+67.0,0,0,1,yes,yes,,high school,,someone else,1,not too happy,dull
+23.0,1,1,0,yes,,,junior college,law,someone else,1,pretty happy,
+28.0,0,1,0,yes,no,,high school,,someone else,0,pretty happy,routine
+34.0,1,0,1,yes,,32670.0,bachelor,business administration,someone else,1,pretty happy,
+44.0,1,0,1,yes,no,363.0,high school,,someone else,0,very happy,exciting
+31.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+63.0,0,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+25.0,0,0,1,yes,yes,,bachelor,journalism,someone else,1,pretty happy,routine
+56.0,0,1,0,yes,yes,,high school,,someone else,0,very happy,routine
+20.0,1,0,0,no,,,high school,,,0,pretty happy,
+43.0,1,0,0,no,yes,101640.0,bachelor,business administration,someone else,0,very happy,exciting
+61.0,1,0,1,yes,yes,32670.0,bachelor,criminology/criminal justice,someone else,0,pretty happy,routine
+53.0,0,0,1,yes,no,49005.0,graduate,business administration,someone else,0,pretty happy,exciting
+35.0,1,0,1,yes,yes,27225.0,bachelor,criminology/criminal justice,someone else,0,pretty happy,routine
+70.0,1,0,1,yes,,,graduate,education,someone else,1,pretty happy,
+47.0,0,0,1,yes,no,,lt high school,,someone else,0,pretty happy,dull
+22.0,1,1,0,yes,,17242.0,high school,,someone else,0,not too happy,
+81.0,1,0,1,yes,yes,,junior college,theology,someone else,1,not too happy,exciting
+74.0,0,0,1,yes,,,graduate,accounting/bookkeeping,someone else,0,pretty happy,
+48.0,1,0,1,no,,19965.0,bachelor,english,self-employed,0,very happy,
+27.0,1,0,1,yes,no,19965.0,junior college,other,someone else,1,pretty happy,routine
+52.0,0,0,1,yes,no,189211.0,graduate,business administration,someone else,0,pretty happy,routine
+40.0,0,0,1,yes,yes,189211.0,bachelor,computer science,someone else,0,pretty happy,routine
+51.0,0,0,1,yes,,27225.0,junior college,sociology,someone else,0,not too happy,
+83.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+66.0,1,1,0,yes,yes,,graduate,political science/international relations,someone else,1,very happy,exciting
+80.0,0,0,0,yes,,,high school,,someone else,0,very happy,
+24.0,0,0,1,yes,,13612.0,high school,,someone else,0,pretty happy,
+81.0,0,0,1,yes,,15428.0,graduate,business administration,self-employed,0,pretty happy,
+22.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+31.0,0,0,1,yes,,32670.0,high school,,someone else,0,very happy,
+47.0,1,0,1,yes,,72600.0,high school,,someone else,0,pretty happy,
+35.0,0,0,1,yes,yes,49005.0,high school,,someone else,0,pretty happy,exciting
+44.0,1,0,1,yes,yes,,high school,,self-employed,0,pretty happy,dull
+27.0,1,0,1,yes,,23595.0,bachelor,education,someone else,0,pretty happy,
+58.0,1,0,1,yes,,,bachelor,nursing,someone else,0,pretty happy,
+42.0,1,0,1,yes,no,27225.0,high school,,someone else,0,pretty happy,routine
+43.0,1,0,0,yes,no,,high school,,someone else,0,pretty happy,routine
+30.0,1,1,0,yes,no,23595.0,high school,,someone else,0,very happy,routine
+39.0,1,0,1,yes,no,59895.0,high school,,someone else,0,not too happy,routine
+60.0,0,1,0,yes,,87120.0,graduate,physics,someone else,1,very happy,
+37.0,1,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,routine
+50.0,0,0,1,yes,no,32670.0,high school,,someone else,0,very happy,routine
+44.0,0,0,1,yes,,72600.0,bachelor,education,someone else,0,very happy,
+70.0,1,0,1,no,no,,high school,,someone else,0,pretty happy,routine
+33.0,1,0,1,no,no,,lt high school,,,0,very happy,exciting
+62.0,0,0,0,no,no,,lt high school,,someone else,0,very happy,dull
+47.0,0,0,1,no,no,19965.0,high school,,someone else,0,not too happy,exciting
+32.0,1,0,0,yes,,,junior college,health,someone else,0,pretty happy,
+63.0,1,0,1,yes,yes,87120.0,bachelor,other,someone else,1,very happy,exciting
+38.0,1,0,1,yes,,32670.0,bachelor,nursing,someone else,0,very happy,
+35.0,0,0,0,yes,no,1452.0,lt high school,,self-employed,0,pretty happy,exciting
+47.0,0,0,0,yes,no,,high school,,someone else,0,very happy,routine
+43.0,0,0,0,yes,no,27225.0,bachelor,social sciences,someone else,1,very happy,exciting
+34.0,1,0,0,yes,,,lt high school,,,0,very happy,
+43.0,1,0,0,yes,no,1452.0,high school,,someone else,0,very happy,routine
+44.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,routine
+79.0,1,1,0,yes,yes,,high school,,someone else,1,pretty happy,routine
+52.0,0,1,0,yes,no,,high school,,self-employed,1,pretty happy,
+63.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+24.0,1,1,0,yes,,,high school,,,1,not too happy,dull
+46.0,0,0,1,yes,,32670.0,high school,,someone else,0,very happy,
+57.0,0,0,1,yes,no,23595.0,high school,,someone else,0,pretty happy,routine
+43.0,0,0,0,no,,11798.0,high school,,someone else,0,very happy,
+65.0,0,0,1,yes,yes,59895.0,bachelor,chemistry,someone else,0,pretty happy,exciting
+25.0,0,0,1,no,yes,,bachelor,history,someone else,0,not too happy,exciting
+40.0,0,0,1,yes,yes,,lt high school,,someone else,1,not too happy,routine
+59.0,1,0,1,yes,no,39930.0,high school,,someone else,0,pretty happy,exciting
+46.0,1,0,1,yes,,11798.0,junior college,nursing,someone else,0,very happy,
+35.0,1,0,0,yes,yes,,bachelor,journalism,someone else,0,very happy,exciting
+57.0,0,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+25.0,0,0,1,yes,yes,17242.0,high school,,someone else,0,pretty happy,routine
+59.0,1,0,1,no,no,9982.0,high school,,someone else,0,not too happy,exciting
+73.0,0,0,1,yes,yes,,high school,,someone else,0,very happy,routine
+66.0,0,0,1,no,,,high school,,someone else,1,pretty happy,
+84.0,0,0,0,no,no,,lt high school,,someone else,1,very happy,exciting
+68.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+28.0,1,0,0,yes,no,,bachelor,biology,self-employed,0,pretty happy,routine
+69.0,0,0,1,yes,no,39930.0,lt high school,,someone else,1,very happy,exciting
+44.0,0,0,1,yes,yes,27225.0,high school,,someone else,0,very happy,routine
+28.0,1,0,1,yes,,2541.0,high school,,someone else,1,pretty happy,
+34.0,1,0,1,yes,no,39930.0,bachelor,education,someone else,0,very happy,exciting
+32.0,1,0,1,no,,39930.0,bachelor,history,someone else,0,pretty happy,
+22.0,0,0,1,yes,yes,13612.0,high school,,someone else,0,pretty happy,exciting
+25.0,0,1,0,yes,,5445.0,high school,,someone else,1,pretty happy,
+35.0,1,0,0,no,no,363.0,high school,,someone else,0,not too happy,exciting
+60.0,1,1,0,yes,,32670.0,high school,,someone else,1,very happy,
+26.0,0,1,0,yes,yes,23595.0,high school,,someone else,1,very happy,routine
+63.0,0,0,1,yes,yes,49005.0,graduate,information technology,someone else,0,pretty happy,routine
+46.0,0,0,1,yes,,,bachelor,veterinary medicine,someone else,0,pretty happy,
+61.0,0,0,1,yes,yes,11798.0,bachelor,geology,someone else,0,pretty happy,exciting
+57.0,1,0,1,yes,,59895.0,graduate,nursing,someone else,0,very happy,
+50.0,1,0,1,yes,,,bachelor,communications/speech,someone else,1,not too happy,
+41.0,0,0,1,yes,no,72600.0,graduate,engineering,someone else,0,very happy,routine
+71.0,1,0,1,yes,,,junior college,nursing,someone else,0,pretty happy,
+65.0,1,0,1,yes,yes,49005.0,bachelor,nursing,someone else,0,very happy,exciting
+43.0,0,0,1,yes,yes,9982.0,bachelor,education,self-employed,1,pretty happy,exciting
+29.0,1,0,1,yes,,11798.0,bachelor,dance,self-employed,0,very happy,
+21.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+23.0,1,0,1,yes,no,9982.0,high school,,someone else,0,very happy,exciting
+46.0,1,0,1,yes,no,32670.0,high school,,someone else,0,pretty happy,routine
+40.0,0,0,1,yes,,72600.0,graduate,law,someone else,0,pretty happy,
+25.0,1,0,1,yes,no,32670.0,bachelor,education,someone else,0,very happy,exciting
+77.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+70.0,0,0,1,yes,,15428.0,high school,,someone else,0,not too happy,
+70.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,exciting
+59.0,0,0,1,yes,no,15428.0,high school,,someone else,0,pretty happy,exciting
+61.0,1,0,1,yes,,32670.0,bachelor,social work,someone else,0,pretty happy,
+29.0,0,1,0,yes,yes,32670.0,high school,,someone else,0,pretty happy,exciting
+32.0,0,0,1,yes,,23595.0,bachelor,political science/international relations,someone else,0,pretty happy,
+47.0,0,1,0,yes,no,,high school,,someone else,0,not too happy,dull
+35.0,0,0,1,yes,no,15428.0,junior college,industry & techn,someone else,0,pretty happy,routine
+54.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+31.0,0,1,0,yes,yes,,high school,,self-employed,0,pretty happy,exciting
+55.0,1,0,1,yes,no,15428.0,high school,,someone else,0,pretty happy,routine
+26.0,0,0,1,yes,yes,27225.0,high school,,someone else,0,pretty happy,routine
+56.0,0,0,1,yes,no,39930.0,bachelor,theology,someone else,0,pretty happy,exciting
+57.0,0,1,0,yes,yes,,high school,,someone else,0,not too happy,dull
+49.0,0,1,0,yes,,,lt high school,,someone else,0,very happy,
+82.0,0,1,0,yes,,,lt high school,,someone else,0,very happy,routine
+82.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+50.0,1,0,1,yes,no,8168.0,lt high school,,someone else,1,very happy,routine
+50.0,1,0,1,yes,,13612.0,high school,,someone else,0,pretty happy,
+52.0,1,0,1,yes,yes,17242.0,graduate,gerontology,someone else,0,pretty happy,routine
+38.0,1,0,1,yes,yes,19965.0,lt high school,,someone else,0,pretty happy,routine
+38.0,0,0,1,yes,,4719.0,lt high school,,someone else,1,very happy,
+43.0,1,1,0,yes,yes,27225.0,junior college,business administration,someone else,0,pretty happy,exciting
+53.0,1,0,1,yes,,27225.0,high school,,someone else,0,pretty happy,
+39.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,not too happy,routine
+56.0,1,0,1,no,yes,17242.0,high school,,someone else,0,very happy,exciting
+77.0,0,0,1,yes,,,graduate,statistics/biostatistics,someone else,0,very happy,
+39.0,1,0,1,yes,no,27225.0,high school,,someone else,0,very happy,exciting
+83.0,1,0,0,yes,no,,lt high school,,someone else,0,pretty happy,exciting
+65.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+63.0,1,0,1,yes,no,32670.0,bachelor,computer science,someone else,1,very happy,exciting
+50.0,0,0,1,yes,,,junior college,psychology,someone else,0,pretty happy,
+42.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+52.0,1,0,1,yes,yes,39930.0,graduate,information technology,someone else,0,pretty happy,exciting
+75.0,0,0,1,yes,yes,,high school,,self-employed,0,pretty happy,routine
+40.0,1,0,1,no,yes,,bachelor,computer science,someone else,1,pretty happy,exciting
+69.0,1,0,1,yes,,2541.0,bachelor,biology,self-employed,0,pretty happy,
+74.0,1,0,1,yes,,,high school,,someone else,0,very happy,
+52.0,1,0,1,no,yes,101640.0,graduate,art,someone else,0,very happy,exciting
+23.0,0,0,1,yes,,13612.0,bachelor,foreign language,someone else,0,pretty happy,
+51.0,1,1,0,no,no,363.0,high school,,someone else,0,pretty happy,routine
+51.0,0,1,0,no,no,,,,,0,pretty happy,exciting
+31.0,0,1,0,yes,yes,72600.0,high school,,someone else,0,very happy,exciting
+56.0,0,0,0,no,no,59895.0,high school,,someone else,1,pretty happy,exciting
+19.0,1,0,0,yes,,8168.0,high school,,someone else,0,very happy,
+38.0,0,0,0,yes,no,39930.0,junior college,liberal arts,someone else,0,very happy,exciting
+48.0,1,0,1,yes,no,,high school,,self-employed,0,pretty happy,routine
+38.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+23.0,1,0,1,no,no,,lt high school,,someone else,1,very happy,exciting
+44.0,1,0,1,yes,,11798.0,high school,,someone else,1,not too happy,
+,0,0,1,no,no,15428.0,lt high school,,someone else,0,not too happy,exciting
+35.0,0,1,0,yes,,27225.0,high school,,someone else,1,pretty happy,
+49.0,1,0,1,no,no,15428.0,graduate,education,someone else,0,pretty happy,exciting
+52.0,0,0,0,no,,17242.0,high school,,someone else,0,very happy,
+22.0,0,0,0,yes,yes,,high school,,someone else,0,pretty happy,exciting
+26.0,1,0,1,yes,,,bachelor,criminology/criminal justice,someone else,1,pretty happy,
+42.0,0,0,1,no,no,,lt high school,,someone else,1,pretty happy,dull
+24.0,0,1,0,yes,no,19965.0,high school,,someone else,0,not too happy,exciting
+27.0,1,0,0,yes,,,high school,,someone else,1,pretty happy,
+46.0,1,0,0,yes,,,high school,,someone else,1,not too happy,routine
+47.0,0,0,1,yes,no,,lt high school,,someone else,0,pretty happy,routine
+53.0,0,0,1,no,,39930.0,high school,,someone else,1,very happy,
+48.0,0,1,0,no,no,39930.0,high school,,someone else,0,very happy,routine
+31.0,0,0,1,yes,no,32670.0,high school,,someone else,0,not too happy,routine
+40.0,0,0,1,no,,32670.0,junior college,computer science,someone else,0,very happy,
+37.0,1,0,1,yes,no,32670.0,bachelor,criminology/criminal justice,someone else,0,pretty happy,routine
+47.0,0,1,0,yes,no,,lt high school,,someone else,1,very happy,exciting
+37.0,1,0,1,yes,yes,72600.0,graduate,law,someone else,0,pretty happy,routine
+71.0,1,0,1,yes,,,bachelor,special education,someone else,0,pretty happy,routine
+65.0,0,0,0,yes,yes,,high school,,someone else,0,pretty happy,exciting
+38.0,1,0,1,no,no,,lt high school,,,0,pretty happy,exciting
+67.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+52.0,1,0,0,no,yes,,high school,,someone else,0,pretty happy,routine
+49.0,1,0,0,yes,yes,,graduate,educational administration,someone else,0,pretty happy,exciting
+26.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+70.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,exciting
+69.0,0,0,1,yes,yes,,high school,,someone else,1,pretty happy,exciting
+51.0,0,1,0,yes,,3993.0,high school,,someone else,0,not too happy,
+39.0,0,0,1,yes,yes,49005.0,high school,,someone else,1,pretty happy,routine
+35.0,0,1,0,yes,,49005.0,high school,,someone else,0,pretty happy,
+45.0,0,0,1,yes,yes,49005.0,high school,,someone else,1,pretty happy,routine
+41.0,0,0,1,yes,yes,49005.0,graduate,business administration,someone else,1,pretty happy,routine
+23.0,0,0,0,yes,no,5445.0,bachelor,marketing,someone else,0,not too happy,routine
+47.0,0,0,1,yes,no,,bachelor,business administration,someone else,0,pretty happy,exciting
+45.0,1,0,0,yes,,,bachelor,social work,someone else,0,pretty happy,routine
+58.0,1,0,1,yes,yes,,bachelor,business administration,someone else,1,not too happy,dull
+26.0,0,0,1,yes,,23595.0,high school,,someone else,1,pretty happy,
+66.0,0,0,1,yes,yes,,graduate,agriculture/horticulture,someone else,0,pretty happy,exciting
+35.0,1,1,0,yes,,32670.0,bachelor,nursing,someone else,0,pretty happy,
+44.0,1,0,1,yes,no,1452.0,graduate,education,someone else,0,pretty happy,exciting
+66.0,0,0,1,yes,,59895.0,high school,,someone else,1,very happy,
+43.0,0,1,0,yes,,,high school,,self-employed,0,pretty happy,
+64.0,0,1,0,yes,no,,high school,,someone else,1,not too happy,routine
+24.0,1,0,1,yes,,4719.0,lt high school,,someone else,0,pretty happy,
+22.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+55.0,1,0,0,yes,no,11798.0,junior college,other,someone else,1,pretty happy,exciting
+87.0,0,0,1,yes,,,bachelor,pharmacy,self-employed,0,not too happy,
+52.0,1,0,1,yes,no,,high school,,self-employed,0,very happy,routine
+37.0,0,0,1,yes,,23595.0,graduate,counseling,someone else,0,pretty happy,
+75.0,0,0,1,yes,no,363.0,high school,,someone else,0,not too happy,routine
+28.0,1,0,1,yes,no,23595.0,bachelor,social work,someone else,0,very happy,routine
+21.0,1,0,1,yes,,5445.0,high school,,someone else,1,pretty happy,
+48.0,0,0,1,yes,no,,lt high school,,someone else,1,pretty happy,routine
+68.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+59.0,1,0,1,yes,no,13612.0,high school,,someone else,0,very happy,exciting
+35.0,1,0,1,yes,yes,39930.0,bachelor,business administration,someone else,0,pretty happy,exciting
+51.0,0,0,1,yes,yes,189211.0,junior college,nursing,someone else,0,pretty happy,exciting
+40.0,0,1,0,yes,,49005.0,bachelor,business administration,self-employed,1,not too happy,
+48.0,1,0,1,no,no,,bachelor,food science/nutrition/culinary arts,someone else,0,very happy,routine
+23.0,0,1,0,yes,,,high school,,someone else,0,pretty happy,
+26.0,0,0,1,yes,yes,32670.0,graduate,medicine,someone else,0,very happy,exciting
+48.0,1,1,0,yes,no,39930.0,bachelor,nursing,someone else,0,pretty happy,exciting
+36.0,1,0,0,yes,yes,72600.0,graduate,pharmacy,someone else,0,pretty happy,routine
+19.0,0,1,0,yes,,4719.0,high school,,someone else,0,very happy,
+49.0,0,1,0,yes,no,27225.0,high school,,someone else,1,very happy,routine
+38.0,0,0,1,yes,yes,39930.0,bachelor,parks and recreation,someone else,0,very happy,exciting
+29.0,1,1,0,yes,,49005.0,graduate,accounting/bookkeeping,someone else,1,pretty happy,
+42.0,1,0,1,yes,,19965.0,graduate,education,someone else,0,pretty happy,
+60.0,0,0,0,yes,yes,17242.0,lt high school,,someone else,1,very happy,exciting
+30.0,0,0,1,yes,,49005.0,high school,,someone else,0,very happy,
+63.0,0,0,1,yes,no,17242.0,junior college,theology,someone else,0,very happy,exciting
+68.0,1,0,1,yes,no,17242.0,high school,,someone else,0,not too happy,routine
+77.0,0,0,1,yes,no,,bachelor,engineering,someone else,0,not too happy,exciting
+26.0,0,0,1,yes,yes,13612.0,high school,,someone else,0,not too happy,routine
+49.0,1,0,1,yes,,19965.0,high school,,someone else,1,pretty happy,
+46.0,1,0,1,yes,no,23595.0,high school,,someone else,0,not too happy,exciting
+30.0,1,0,1,yes,,8168.0,graduate,law,someone else,0,very happy,
+54.0,0,0,1,yes,yes,49005.0,bachelor,communications/speech,someone else,1,pretty happy,routine
+25.0,1,0,1,yes,yes,,high school,,self-employed,1,not too happy,routine
+42.0,1,0,1,yes,no,,high school,,self-employed,1,pretty happy,routine
+37.0,1,0,1,yes,,8168.0,high school,,someone else,0,pretty happy,
+56.0,1,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,routine
+23.0,1,0,1,yes,no,,bachelor,special education,someone else,0,pretty happy,exciting
+55.0,0,0,1,yes,,19965.0,high school,,someone else,1,pretty happy,
+24.0,1,0,1,yes,no,19965.0,high school,,someone else,0,pretty happy,exciting
+67.0,0,1,0,yes,no,,high school,,someone else,0,pretty happy,exciting
+62.0,1,1,0,yes,,32670.0,lt high school,,self-employed,0,pretty happy,
+54.0,0,1,0,yes,yes,,high school,,someone else,0,not too happy,exciting
+34.0,1,1,0,yes,no,3993.0,high school,,someone else,0,pretty happy,routine
+52.0,1,0,1,yes,,27225.0,bachelor,accounting/bookkeeping,someone else,0,not too happy,
+39.0,1,0,1,yes,,,bachelor,nursing,someone else,0,pretty happy,
+73.0,1,0,1,yes,no,8168.0,junior college,english,someone else,1,not too happy,exciting
+25.0,1,0,1,yes,yes,3993.0,high school,,someone else,0,pretty happy,exciting
+62.0,0,0,1,yes,yes,,high school,,someone else,0,not too happy,routine
+66.0,0,0,0,yes,yes,,junior college,electronics,someone else,1,very happy,exciting
+65.0,1,0,1,no,no,27225.0,lt high school,,someone else,0,very happy,exciting
+65.0,1,0,0,yes,no,,lt high school,,someone else,1,not too happy,routine
+30.0,0,0,1,yes,no,13612.0,high school,,someone else,0,pretty happy,routine
+28.0,1,1,0,no,,,lt high school,,self-employed,0,very happy,
+77.0,0,0,1,yes,,,lt high school,,someone else,1,very happy,
+39.0,1,0,1,yes,yes,39930.0,high school,,someone else,0,very happy,routine
+67.0,0,0,1,yes,no,,bachelor,physical education,someone else,0,pretty happy,exciting
+69.0,1,0,1,yes,no,,bachelor,sociology,someone else,0,not too happy,exciting
+87.0,1,0,1,yes,,,high school,,someone else,0,very happy,
+31.0,0,0,1,yes,no,,graduate,business administration,someone else,0,very happy,exciting
+78.0,1,0,1,yes,no,,high school,,someone else,1,very happy,routine
+51.0,0,0,0,no,no,87120.0,bachelor,accounting/bookkeeping,someone else,0,pretty happy,exciting
+39.0,0,1,0,yes,yes,101640.0,graduate,business administration,someone else,1,pretty happy,exciting
+42.0,0,0,1,yes,,72600.0,graduate,business administration,someone else,0,very happy,
+48.0,1,1,0,yes,yes,39930.0,graduate,communications/speech,someone else,1,very happy,exciting
+68.0,0,1,0,yes,yes,19965.0,junior college,social work,self-employed,1,not too happy,exciting
+52.0,0,0,1,yes,yes,23595.0,junior college,english,self-employed,0,pretty happy,routine
+73.0,0,0,1,yes,yes,,graduate,finance,someone else,0,pretty happy,routine
+38.0,0,0,1,yes,,72600.0,bachelor,chemistry,someone else,0,pretty happy,
+36.0,0,0,1,yes,,39930.0,high school,,someone else,1,pretty happy,
+65.0,0,0,1,yes,no,19965.0,high school,,someone else,0,very happy,exciting
+24.0,0,0,1,yes,,,high school,,,0,pretty happy,
+76.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+48.0,0,0,1,yes,no,59895.0,graduate,accounting/bookkeeping,someone else,0,very happy,exciting
+27.0,0,0,1,yes,no,49005.0,bachelor,criminology/criminal justice,someone else,0,not too happy,exciting
+72.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+34.0,0,0,1,yes,yes,,lt high school,,someone else,1,not too happy,exciting
+30.0,1,0,1,yes,,39930.0,junior college,health,someone else,1,pretty happy,
+42.0,0,0,1,yes,no,39930.0,bachelor,music,someone else,0,pretty happy,exciting
+80.0,0,0,1,yes,no,,high school,,someone else,1,very happy,exciting
+22.0,0,0,1,yes,yes,23595.0,high school,,someone else,0,very happy,exciting
+49.0,1,0,1,yes,no,,lt high school,,someone else,0,pretty happy,routine
+57.0,0,1,0,yes,,8168.0,high school,,self-employed,1,very happy,
+40.0,1,1,0,no,,,lt high school,,,1,pretty happy,exciting
+87.0,1,0,1,yes,no,,high school,,someone else,1,not too happy,exciting
+59.0,0,0,1,yes,,,graduate,journalism,someone else,0,pretty happy,
+30.0,0,0,1,no,,,high school,,someone else,1,not too happy,
+20.0,0,0,1,yes,no,,high school,,someone else,0,not too happy,routine
+25.0,1,0,1,yes,no,,high school,,someone else,1,very happy,exciting
+20.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+31.0,0,0,1,no,yes,4719.0,bachelor,business administration,someone else,0,pretty happy,exciting
+30.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+23.0,1,0,1,yes,,,bachelor,engineering,someone else,0,very happy,
+53.0,0,0,1,yes,yes,87120.0,bachelor,communications/speech,self-employed,0,very happy,exciting
+40.0,1,0,1,yes,,49005.0,bachelor,nursing,someone else,0,pretty happy,
+47.0,0,0,1,yes,yes,27225.0,high school,,someone else,0,very happy,routine
+54.0,1,0,1,yes,no,32670.0,high school,,someone else,0,pretty happy,routine
+67.0,1,0,1,yes,no,,graduate,other,someone else,0,very happy,exciting
+,0,0,1,yes,yes,49005.0,high school,,someone else,0,pretty happy,routine
+22.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,exciting
+24.0,1,1,0,yes,no,,high school,,someone else,0,not too happy,routine
+44.0,1,1,0,yes,yes,363.0,high school,,someone else,0,not too happy,dull
+24.0,0,0,1,yes,no,72600.0,high school,,someone else,1,pretty happy,exciting
+78.0,1,0,1,yes,no,,high school,,someone else,1,not too happy,routine
+38.0,0,0,1,no,no,17242.0,lt high school,,someone else,0,very happy,routine
+70.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,routine
+69.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+84.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+74.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+37.0,0,0,1,yes,,72600.0,graduate,business administration,someone else,0,very happy,
+80.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+37.0,1,0,1,yes,no,32670.0,high school,,someone else,0,pretty happy,routine
+33.0,1,0,1,yes,,39930.0,high school,,someone else,0,very happy,
+74.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+57.0,1,0,1,yes,,49005.0,graduate,psychology,someone else,0,pretty happy,
+36.0,0,0,1,yes,no,49005.0,graduate,architecture,someone else,0,pretty happy,exciting
+58.0,0,0,1,yes,yes,49005.0,lt high school,,someone else,0,pretty happy,exciting
+50.0,0,0,1,yes,no,49005.0,high school,,someone else,0,pretty happy,routine
+64.0,0,0,1,yes,no,,bachelor,computer science,someone else,1,pretty happy,routine
+43.0,0,0,1,yes,,32670.0,bachelor,nursing,someone else,0,very happy,
+72.0,0,0,1,no,yes,,graduate,history,someone else,0,not too happy,routine
+31.0,1,0,1,yes,no,27225.0,bachelor,education,someone else,0,very happy,routine
+36.0,1,0,1,yes,yes,23595.0,bachelor,psychology,someone else,0,pretty happy,exciting
+29.0,1,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,exciting
+80.0,1,0,1,yes,no,,bachelor,nursing,someone else,1,very happy,routine
+61.0,0,0,1,yes,yes,3993.0,high school,,self-employed,0,not too happy,routine
+53.0,0,0,1,yes,,72600.0,lt high school,,self-employed,0,pretty happy,
+52.0,1,0,1,yes,no,11798.0,junior college,other,self-employed,0,pretty happy,exciting
+37.0,0,0,0,no,,32670.0,high school,,someone else,0,very happy,
+30.0,1,0,1,yes,no,,high school,,,0,pretty happy,routine
+36.0,0,0,1,yes,,13612.0,high school,,someone else,0,pretty happy,
+22.0,0,0,1,yes,,6534.0,high school,,someone else,0,pretty happy,
+20.0,0,0,1,yes,yes,3267.0,high school,,someone else,0,pretty happy,exciting
+31.0,1,1,0,yes,no,15428.0,high school,,someone else,0,pretty happy,exciting
+74.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+83.0,1,0,1,yes,,,lt high school,,someone else,1,pretty happy,
+61.0,0,0,1,yes,no,101640.0,junior college,electronics,self-employed,0,,exciting
+58.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+63.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+67.0,1,0,1,yes,yes,9982.0,high school,,self-employed,0,pretty happy,routine
+50.0,0,0,0,yes,no,27225.0,bachelor,engineering,someone else,1,not too happy,dull
+29.0,0,0,0,yes,,27225.0,lt high school,,someone else,0,pretty happy,
+59.0,0,0,1,no,no,23595.0,high school,,someone else,0,pretty happy,exciting
+38.0,1,0,1,yes,no,39930.0,graduate,music,someone else,0,very happy,routine
+32.0,1,0,1,yes,,49005.0,bachelor,business administration,someone else,0,very happy,
+64.0,1,0,1,yes,no,19965.0,high school,,someone else,0,pretty happy,routine
+30.0,1,0,1,yes,,49005.0,bachelor,business administration,someone else,0,pretty happy,
+48.0,1,1,0,yes,yes,,high school,,someone else,1,not too happy,routine
+44.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,very happy,exciting
+25.0,0,0,1,yes,yes,32670.0,bachelor,economics,someone else,0,very happy,exciting
+60.0,0,1,0,yes,,59895.0,bachelor,industry & techn,someone else,0,very happy,
+46.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+86.0,1,0,1,yes,yes,,high school,,someone else,1,very happy,exciting
+29.0,1,1,0,yes,yes,,lt high school,,someone else,1,pretty happy,dull
+50.0,1,0,1,yes,yes,39930.0,bachelor,liberal arts,someone else,1,very happy,exciting
+79.0,1,0,1,yes,no,,bachelor,education,someone else,1,very happy,exciting
+29.0,0,0,1,no,,17242.0,bachelor,art,someone else,0,pretty happy,
+50.0,1,0,1,yes,yes,39930.0,high school,,someone else,0,pretty happy,exciting
+61.0,0,0,1,yes,yes,,bachelor,psychology,someone else,0,not too happy,routine
+23.0,1,0,1,no,,,high school,,someone else,0,not too happy,
+29.0,1,0,1,yes,no,15428.0,junior college,liberal arts,someone else,0,very happy,routine
+80.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+71.0,1,0,1,yes,no,,lt high school,,,1,not too happy,routine
+55.0,0,0,1,yes,yes,,high school,,someone else,1,not too happy,routine
+80.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+57.0,1,0,1,yes,,,junior college,health,someone else,1,not too happy,
+47.0,0,0,1,yes,yes,49005.0,graduate,education,someone else,0,very happy,routine
+61.0,1,0,1,yes,no,,junior college,business administration,someone else,0,pretty happy,exciting
+64.0,1,0,1,yes,yes,27225.0,graduate,law,self-employed,0,not too happy,routine
+43.0,0,1,0,yes,yes,13612.0,high school,,someone else,1,not too happy,dull
+21.0,1,0,1,yes,,,high school,,someone else,0,not too happy,
+60.0,1,0,1,yes,no,13612.0,high school,,someone else,0,very happy,routine
+46.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+43.0,1,0,0,no,no,6534.0,lt high school,,someone else,0,pretty happy,exciting
+66.0,0,0,1,yes,,,high school,,someone else,0,not too happy,
+54.0,0,0,1,no,,23595.0,bachelor,other,self-employed,1,pretty happy,
+36.0,1,0,1,yes,yes,,junior college,human services/human resources,someone else,1,not too happy,routine
+64.0,1,0,1,yes,yes,5445.0,high school,,someone else,1,not too happy,exciting
+77.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+76.0,1,0,1,yes,yes,,bachelor,biology,someone else,1,pretty happy,exciting
+,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+57.0,1,0,1,yes,yes,,junior college,business administration,someone else,0,pretty happy,exciting
+63.0,1,0,1,yes,yes,59895.0,graduate,social work,someone else,0,pretty happy,exciting
+66.0,1,0,1,yes,yes,363.0,graduate,education,self-employed,0,pretty happy,exciting
+53.0,0,0,1,yes,,49005.0,bachelor,education,self-employed,0,pretty happy,
+57.0,0,0,1,yes,yes,72600.0,graduate,english,someone else,0,very happy,routine
+41.0,1,0,1,yes,yes,32670.0,high school,,someone else,0,very happy,exciting
+38.0,0,0,1,yes,yes,39930.0,bachelor,psychology,someone else,0,pretty happy,exciting
+34.0,0,0,1,yes,no,,high school,,someone else,1,pretty happy,exciting
+72.0,0,0,1,yes,,,lt high school,,someone else,1,not too happy,
+39.0,1,1,0,yes,yes,3993.0,high school,,someone else,0,not too happy,routine
+32.0,0,0,1,yes,no,9982.0,high school,,self-employed,1,pretty happy,exciting
+42.0,1,1,0,yes,,,bachelor,health,someone else,1,pretty happy,
+32.0,1,1,0,no,yes,15428.0,high school,,someone else,0,not too happy,exciting
+67.0,1,0,1,yes,yes,11798.0,graduate,education,someone else,0,pretty happy,exciting
+57.0,0,0,1,yes,yes,27225.0,high school,,someone else,0,pretty happy,routine
+35.0,0,0,1,yes,no,32670.0,high school,,someone else,1,pretty happy,routine
+28.0,1,0,1,yes,no,,bachelor,business administration,someone else,0,pretty happy,exciting
+52.0,1,0,1,yes,yes,59895.0,graduate,nursing,someone else,0,pretty happy,exciting
+,0,0,1,yes,,,high school,,someone else,0,not too happy,routine
+55.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,exciting
+67.0,1,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+36.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+66.0,1,0,1,yes,no,23595.0,high school,,someone else,0,very happy,exciting
+57.0,1,1,0,yes,no,1452.0,high school,,someone else,0,pretty happy,routine
+48.0,1,0,1,no,no,,high school,,someone else,0,not too happy,routine
+35.0,1,1,0,yes,,8168.0,high school,,someone else,1,pretty happy,
+59.0,1,0,0,yes,yes,,high school,,someone else,1,not too happy,dull
+59.0,0,0,1,no,yes,,lt high school,,someone else,0,not too happy,exciting
+35.0,1,0,0,no,,8168.0,high school,,someone else,1,very happy,
+52.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+37.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,exciting
+61.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+67.0,1,0,1,yes,yes,9982.0,high school,,someone else,0,pretty happy,dull
+30.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,pretty happy,exciting
+56.0,1,1,0,yes,,49005.0,graduate,political science/international relations,someone else,0,very happy,
+31.0,1,0,1,no,,,graduate,business administration,someone else,0,pretty happy,
+51.0,1,0,1,yes,yes,19965.0,high school,,someone else,1,very happy,exciting
+67.0,1,0,1,yes,yes,,bachelor,home economics,self-employed,0,pretty happy,routine
+61.0,1,0,1,yes,no,,bachelor,business administration,someone else,0,very happy,routine
+58.0,1,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+19.0,1,0,1,yes,,1452.0,lt high school,,someone else,0,pretty happy,
+37.0,1,1,0,yes,no,59895.0,high school,,someone else,0,not too happy,exciting
+78.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+62.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,dull
+45.0,1,0,1,yes,,32670.0,graduate,education,someone else,0,pretty happy,
+68.0,1,0,1,yes,no,,lt high school,,someone else,0,pretty happy,exciting
+37.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+63.0,0,0,1,yes,yes,,lt high school,,someone else,1,pretty happy,routine
+74.0,0,0,1,yes,no,,high school,,someone else,0,not too happy,dull
+69.0,1,0,1,yes,yes,8168.0,lt high school,,someone else,0,very happy,routine
+59.0,1,0,1,yes,,,high school,,someone else,1,not too happy,
+59.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,exciting
+28.0,1,0,1,yes,yes,32670.0,bachelor,psychology,someone else,0,very happy,exciting
+62.0,0,0,1,yes,,,high school,,someone else,0,not too happy,
+30.0,1,0,1,yes,no,15428.0,junior college,psychology,someone else,1,not too happy,routine
+52.0,0,1,0,yes,,,high school,,someone else,0,not too happy,
+27.0,0,0,1,yes,yes,23595.0,bachelor,history,someone else,0,very happy,exciting
+26.0,0,0,1,yes,no,,high school,,someone else,1,very happy,exciting
+23.0,0,1,0,yes,,,high school,,,0,not too happy,routine
+27.0,0,0,1,yes,no,,bachelor,physical education,someone else,0,very happy,exciting
+23.0,1,0,1,yes,yes,3993.0,bachelor,english,someone else,0,not too happy,exciting
+67.0,1,0,1,yes,,15428.0,graduate,education,someone else,1,pretty happy,
+28.0,0,0,1,yes,yes,,junior college,engineering,,0,pretty happy,exciting
+47.0,1,0,0,no,no,15428.0,bachelor,mathmatics,someone else,0,not too happy,routine
+52.0,0,0,1,yes,yes,49005.0,graduate,physical education,someone else,0,pretty happy,exciting
+66.0,0,0,1,yes,yes,11798.0,graduate,veterinary medicine,someone else,1,pretty happy,routine
+66.0,0,0,1,yes,no,,lt high school,,someone else,0,very happy,routine
+56.0,1,0,1,yes,yes,23595.0,high school,,someone else,0,pretty happy,routine
+24.0,1,1,0,yes,yes,,high school,,someone else,1,not too happy,dull
+60.0,1,1,0,yes,,49005.0,high school,,someone else,0,pretty happy,
+33.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+40.0,1,1,0,yes,no,,lt high school,,someone else,0,pretty happy,exciting
+59.0,1,1,0,yes,yes,19965.0,bachelor,education,someone else,0,very happy,exciting
+19.0,0,0,1,yes,,,lt high school,,,1,very happy,
+48.0,1,0,1,yes,no,39930.0,lt high school,,someone else,0,pretty happy,routine
+41.0,1,1,0,yes,yes,39930.0,graduate,educational administration,someone else,1,pretty happy,exciting
+41.0,0,1,0,yes,,72600.0,high school,,someone else,0,very happy,
+80.0,1,0,1,yes,,,high school,,someone else,0,not too happy,dull
+28.0,0,1,0,yes,,23595.0,high school,,someone else,0,very happy,
+41.0,1,0,1,no,no,2541.0,bachelor,education,someone else,0,very happy,routine
+35.0,1,1,0,yes,no,23595.0,high school,,someone else,0,pretty happy,routine
+51.0,1,1,0,yes,no,,high school,,someone else,0,not too happy,routine
+26.0,1,1,0,yes,no,5445.0,high school,,someone else,0,not too happy,routine
+19.0,0,1,0,yes,no,1452.0,high school,,someone else,0,not too happy,dull
+18.0,1,1,0,yes,,,high school,,someone else,0,pretty happy,
+55.0,1,1,0,yes,yes,23595.0,junior college,accounting/bookkeeping,someone else,0,pretty happy,exciting
+31.0,1,1,0,yes,no,11798.0,junior college,health,someone else,0,very happy,routine
+58.0,0,1,0,yes,,,high school,,someone else,0,very happy,
+58.0,0,0,1,yes,yes,,high school,,self-employed,0,not too happy,routine
+76.0,1,1,0,yes,no,,junior college,business administration,someone else,0,pretty happy,exciting
+72.0,0,0,1,no,,32670.0,lt high school,,someone else,1,pretty happy,
+69.0,1,0,1,yes,no,,graduate,education,someone else,0,very happy,routine
+52.0,1,0,1,yes,,27225.0,bachelor,marketing,someone else,0,very happy,
+65.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+76.0,0,0,1,yes,no,,high school,,someone else,0,very happy,routine
+49.0,0,0,1,yes,,27225.0,high school,,someone else,0,pretty happy,
+33.0,0,1,0,yes,no,17242.0,bachelor,business administration,someone else,0,pretty happy,exciting
+39.0,1,1,0,yes,no,6534.0,high school,,someone else,0,not too happy,routine
+44.0,1,1,0,yes,yes,23595.0,high school,,someone else,0,not too happy,routine
+36.0,1,0,1,yes,yes,59895.0,junior college,nursing,self-employed,0,pretty happy,exciting
+43.0,0,0,0,yes,no,,junior college,art,someone else,1,pretty happy,exciting
+73.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+58.0,0,1,0,yes,,,lt high school,,someone else,0,pretty happy,
+30.0,0,1,0,yes,no,15428.0,high school,,someone else,1,very happy,exciting
+48.0,0,1,0,yes,no,15428.0,high school,,someone else,0,pretty happy,exciting
+57.0,1,0,1,yes,,,high school,,someone else,0,not too happy,
+47.0,0,1,0,yes,yes,39930.0,high school,,someone else,1,not too happy,exciting
+67.0,0,1,0,yes,no,,high school,,someone else,1,not too happy,routine
+69.0,1,1,0,yes,no,,bachelor,business administration,someone else,0,pretty happy,exciting
+25.0,1,1,0,yes,no,,bachelor,accounting/bookkeeping,someone else,0,pretty happy,exciting
+55.0,1,0,1,yes,,27225.0,high school,,someone else,0,very happy,
+21.0,1,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,exciting
+58.0,1,1,0,yes,yes,15428.0,high school,,someone else,1,not too happy,routine
+52.0,0,0,1,yes,yes,32670.0,bachelor,computer science,self-employed,1,pretty happy,exciting
+63.0,1,0,1,yes,no,49005.0,graduate,education,someone else,0,very happy,exciting
+86.0,0,0,1,yes,,,graduate,business administration,someone else,0,pretty happy,
+55.0,1,0,0,no,,,high school,,someone else,0,pretty happy,routine
+39.0,1,1,0,yes,,6534.0,high school,,self-employed,0,pretty happy,
+19.0,0,1,0,yes,yes,8168.0,high school,,someone else,0,very happy,exciting
+50.0,1,0,1,yes,yes,,high school,,someone else,1,not too happy,exciting
+37.0,1,1,0,yes,,,high school,,someone else,1,not too happy,
+41.0,0,0,1,yes,yes,32670.0,bachelor,art,someone else,0,pretty happy,exciting
+37.0,0,0,1,yes,,189211.0,bachelor,engineering,someone else,0,very happy,
+86.0,0,0,1,yes,yes,,bachelor,history,self-employed,0,very happy,exciting
+67.0,1,0,1,yes,yes,11798.0,high school,,self-employed,0,pretty happy,exciting
+80.0,0,0,1,no,,,high school,,self-employed,0,very happy,
+32.0,0,0,1,yes,no,59895.0,bachelor,environmental science/ecology,someone else,0,pretty happy,routine
+56.0,1,0,1,yes,yes,,high school,,self-employed,1,not too happy,routine
+48.0,0,1,0,no,no,49005.0,junior college,business administration,someone else,0,not too happy,exciting
+65.0,0,0,1,yes,,27225.0,high school,,self-employed,0,pretty happy,routine
+73.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+57.0,0,0,1,yes,,49005.0,high school,,self-employed,1,pretty happy,
+78.0,0,0,1,yes,yes,19965.0,high school,,someone else,0,very happy,routine
+52.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+56.0,0,0,1,yes,,27225.0,high school,,someone else,0,pretty happy,
+61.0,0,0,1,yes,no,,high school,,someone else,1,very happy,exciting
+50.0,0,0,1,yes,no,32670.0,bachelor,theology,someone else,0,very happy,exciting
+25.0,0,0,1,yes,,39930.0,junior college,nursing,someone else,0,pretty happy,
+45.0,1,1,0,yes,yes,11798.0,bachelor,business administration,someone else,1,not too happy,exciting
+28.0,0,1,0,yes,no,,high school,,someone else,1,very happy,exciting
+,0,0,1,yes,,15428.0,high school,,someone else,0,pretty happy,
+62.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,routine
+37.0,1,0,1,yes,no,39930.0,junior college,health,someone else,0,pretty happy,exciting
+45.0,0,0,1,yes,,19965.0,high school,,someone else,0,pretty happy,
+57.0,0,0,1,yes,yes,,lt high school,,someone else,1,not too happy,routine
+53.0,1,0,1,yes,no,23595.0,high school,,someone else,0,very happy,exciting
+49.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+67.0,0,0,1,yes,,116160.0,bachelor,business administration,someone else,0,very happy,
+24.0,0,0,1,yes,yes,4719.0,high school,,someone else,1,pretty happy,dull
+44.0,1,0,1,yes,no,,graduate,education,someone else,1,pretty happy,routine
+35.0,1,0,1,yes,,27225.0,high school,,someone else,0,pretty happy,
+22.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+33.0,0,1,0,yes,yes,8168.0,high school,,someone else,1,pretty happy,exciting
+71.0,1,0,1,yes,yes,27225.0,graduate,business administration,someone else,0,pretty happy,routine
+42.0,1,0,0,yes,yes,32670.0,high school,,someone else,1,very happy,exciting
+76.0,0,0,1,yes,no,,high school,,someone else,0,not too happy,routine
+62.0,1,1,0,yes,,,high school,,someone else,1,very happy,
+51.0,1,0,1,yes,no,,lt high school,,someone else,1,very happy,exciting
+58.0,1,0,1,yes,no,39930.0,junior college,nursing,someone else,0,pretty happy,routine
+64.0,1,0,1,yes,no,,high school,,someone else,1,not too happy,exciting
+85.0,1,0,1,yes,no,,lt high school,,self-employed,0,not too happy,routine
+36.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+38.0,0,0,1,yes,no,,junior college,nursing,someone else,1,pretty happy,routine
+69.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+58.0,1,0,1,yes,no,13612.0,high school,,someone else,0,very happy,exciting
+72.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+73.0,1,0,1,yes,,,lt high school,,someone else,1,not too happy,
+75.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,exciting
+79.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,
+49.0,1,0,1,yes,no,,bachelor,education,someone else,0,pretty happy,routine
+22.0,1,1,0,yes,,,bachelor,human services/human resources,,1,not too happy,
+70.0,1,0,1,yes,no,15428.0,high school,,someone else,0,pretty happy,routine
+69.0,0,0,1,yes,,,graduate,human services/human resources,someone else,1,very happy,
+52.0,0,0,1,yes,no,49005.0,graduate,theology,someone else,0,pretty happy,dull
+63.0,1,0,1,yes,yes,15428.0,junior college,nursing,someone else,0,pretty happy,routine
+46.0,0,1,0,yes,,,high school,,someone else,0,not too happy,
+53.0,1,1,0,yes,,27225.0,high school,,someone else,0,pretty happy,
+25.0,1,1,0,yes,yes,3993.0,high school,,someone else,1,very happy,exciting
+54.0,1,1,0,yes,no,,high school,,someone else,1,not too happy,routine
+42.0,0,1,0,yes,,,high school,,someone else,1,pretty happy,
+66.0,0,0,1,yes,yes,,lt high school,,someone else,1,pretty happy,routine
+39.0,1,1,0,yes,yes,13612.0,high school,,someone else,0,pretty happy,routine
+28.0,0,1,0,yes,yes,1452.0,high school,,someone else,1,not too happy,routine
+58.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+55.0,0,0,1,yes,no,,high school,,someone else,0,not too happy,routine
+55.0,1,1,0,yes,,32670.0,bachelor,communications/speech,someone else,0,pretty happy,
+55.0,0,1,0,yes,no,,high school,,someone else,0,pretty happy,routine
+64.0,1,1,0,yes,no,,bachelor,business administration,someone else,0,very happy,routine
+22.0,1,0,1,yes,,1452.0,high school,,someone else,0,pretty happy,
+62.0,0,0,1,yes,,189211.0,bachelor,engineering,someone else,0,very happy,
+62.0,0,0,1,yes,yes,27225.0,high school,,someone else,1,very happy,routine
+79.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,routine
+80.0,1,0,1,yes,no,,graduate,education,someone else,1,very happy,exciting
+22.0,0,0,1,yes,,5445.0,high school,,someone else,0,pretty happy,
+42.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,exciting
+72.0,0,0,1,yes,yes,,lt high school,,someone else,1,pretty happy,exciting
+47.0,0,0,0,no,,19965.0,high school,,someone else,0,pretty happy,routine
+46.0,0,0,1,yes,yes,13612.0,bachelor,business administration,self-employed,1,not too happy,dull
+57.0,1,0,1,no,yes,32670.0,high school,,someone else,0,pretty happy,routine
+35.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+23.0,0,1,0,yes,yes,,high school,,someone else,1,pretty happy,exciting
+33.0,0,0,1,yes,,2541.0,high school,,someone else,0,very happy,
+70.0,1,0,1,yes,,,high school,,self-employed,0,not too happy,routine
+58.0,0,0,1,yes,,59895.0,bachelor,communications/speech,someone else,0,not too happy,
+25.0,0,0,0,yes,yes,,lt high school,,,0,not too happy,routine
+33.0,0,0,1,yes,yes,189211.0,graduate,business administration,someone else,0,very happy,exciting
+49.0,1,0,1,yes,,189211.0,graduate,medicine,someone else,0,very happy,
+52.0,0,0,1,yes,yes,189211.0,graduate,biology,self-employed,0,very happy,routine
+65.0,0,0,1,yes,,72600.0,graduate,business administration,someone else,0,pretty happy,
+70.0,1,0,1,no,no,49005.0,graduate,administrative science/public administration,someone else,1,pretty happy,exciting
+44.0,0,0,1,yes,,19965.0,lt high school,,someone else,0,pretty happy,
+26.0,0,0,1,yes,no,,high school,,someone else,1,pretty happy,exciting
+58.0,1,0,1,yes,no,,lt high school,,someone else,0,not too happy,routine
+62.0,0,0,1,no,,,high school,,someone else,0,not too happy,
+57.0,0,0,1,yes,no,15428.0,high school,,someone else,0,very happy,exciting
+51.0,0,0,1,yes,,59895.0,high school,,someone else,0,not too happy,
+27.0,0,0,1,yes,no,27225.0,high school,,someone else,0,pretty happy,exciting
+46.0,0,0,1,yes,,27225.0,high school,,someone else,1,not too happy,
+69.0,1,0,1,yes,no,9982.0,junior college,education,someone else,0,pretty happy,routine
+67.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+60.0,1,0,1,yes,yes,,high school,,someone else,1,pretty happy,dull
+61.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,not too happy,routine
+61.0,0,0,1,yes,,49005.0,high school,,someone else,0,pretty happy,
+37.0,0,0,1,no,yes,,high school,,someone else,0,pretty happy,exciting
+74.0,1,0,1,yes,,,lt high school,,someone else,1,pretty happy,
+83.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+42.0,1,0,1,yes,yes,2541.0,high school,,someone else,0,very happy,routine
+39.0,0,0,1,yes,,72600.0,graduate,engineering,someone else,0,pretty happy,
+29.0,0,0,0,no,,49005.0,bachelor,communications/speech,someone else,0,pretty happy,
+85.0,0,0,1,yes,,,graduate,law,self-employed,0,pretty happy,
+78.0,0,0,1,yes,no,,graduate,engineering,someone else,0,pretty happy,exciting
+23.0,1,0,1,yes,,,bachelor,education,someone else,0,very happy,
+41.0,1,0,1,yes,no,15428.0,bachelor,foreign language,someone else,0,not too happy,exciting
+71.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+24.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,routine
+86.0,1,0,1,yes,,,high school,,someone else,0,very happy,
+42.0,0,0,1,yes,yes,4719.0,high school,,someone else,1,not too happy,dull
+59.0,0,0,1,yes,yes,32670.0,high school,,someone else,1,pretty happy,exciting
+37.0,1,0,1,yes,,,junior college,child/human/family development,someone else,1,pretty happy,
+67.0,1,0,1,yes,no,,bachelor,education,someone else,0,very happy,exciting
+67.0,1,0,1,yes,no,11798.0,high school,,someone else,0,very happy,routine
+63.0,0,0,1,yes,,6534.0,junior college,theology,someone else,1,pretty happy,
+58.0,1,0,1,yes,no,1452.0,high school,,someone else,0,very happy,routine
+19.0,0,0,1,yes,,4719.0,lt high school,,someone else,0,not too happy,
+27.0,1,1,0,yes,no,,lt high school,,someone else,1,pretty happy,dull
+47.0,1,0,1,yes,yes,,high school,,someone else,1,very happy,routine
+22.0,1,1,0,yes,,,high school,,someone else,0,pretty happy,
+21.0,1,1,0,yes,no,,high school,,,0,pretty happy,routine
+35.0,0,0,1,yes,no,19965.0,high school,,self-employed,0,pretty happy,exciting
+40.0,0,0,1,yes,no,,high school,,someone else,1,not too happy,dull
+82.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+38.0,1,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+32.0,0,0,1,yes,yes,19965.0,bachelor,marketing,someone else,0,not too happy,exciting
+64.0,1,1,0,yes,yes,49005.0,junior college,health,someone else,0,very happy,exciting
+41.0,1,0,1,yes,yes,49005.0,bachelor,political science/international relations,someone else,0,pretty happy,exciting
+62.0,1,0,1,yes,yes,19965.0,graduate,business administration,someone else,0,pretty happy,routine
+52.0,0,0,1,yes,yes,32670.0,high school,,someone else,1,not too happy,dull
+52.0,0,0,1,yes,yes,87120.0,graduate,administrative science/public administration,someone else,0,pretty happy,routine
+86.0,0,0,1,yes,yes,,graduate,theology,someone else,0,pretty happy,routine
+42.0,0,0,1,yes,yes,39930.0,graduate,business administration,someone else,0,pretty happy,exciting
+41.0,1,0,1,yes,no,11798.0,high school,,someone else,0,not too happy,routine
+23.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+50.0,1,0,1,yes,,,high school,,someone else,0,very happy,
+46.0,0,0,1,yes,no,49005.0,graduate,business administration,someone else,0,pretty happy,routine
+39.0,1,0,1,yes,,32670.0,bachelor,education,someone else,0,pretty happy,
+66.0,1,0,1,yes,yes,27225.0,high school,,someone else,0,pretty happy,exciting
+45.0,1,0,1,yes,,,high school,,self-employed,1,not too happy,
+42.0,0,0,1,yes,no,32670.0,high school,,someone else,0,very happy,exciting
+33.0,0,0,1,yes,no,49005.0,high school,,self-employed,0,very happy,exciting
+36.0,0,0,1,yes,,,high school,,someone else,1,pretty happy,
+63.0,1,0,1,yes,no,,junior college,food science/nutrition/culinary arts,someone else,0,very happy,exciting
+60.0,1,0,1,yes,,,junior college,business administration,someone else,1,pretty happy,
+22.0,0,1,0,yes,no,1452.0,bachelor,business administration,someone else,0,very happy,exciting
+53.0,0,0,1,yes,,,bachelor,mathmatics,someone else,0,pretty happy,exciting
+81.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+35.0,1,0,1,yes,no,15428.0,high school,,someone else,0,pretty happy,routine
+65.0,1,0,1,yes,no,6534.0,high school,,self-employed,0,pretty happy,routine
+31.0,1,0,1,yes,yes,,bachelor,sociology,someone else,1,not too happy,exciting
+56.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,routine
+61.0,1,0,1,yes,yes,9982.0,high school,,someone else,0,very happy,exciting
+48.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+32.0,0,0,1,yes,no,32670.0,high school,,someone else,0,pretty happy,routine
+33.0,0,0,0,no,,8168.0,high school,,someone else,0,pretty happy,
+29.0,1,0,1,yes,no,1452.0,lt high school,,someone else,1,not too happy,routine
+52.0,0,0,1,yes,,,high school,,someone else,0,not too happy,
+50.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+31.0,1,0,1,yes,,,high school,,someone else,0,very happy,
+37.0,0,0,1,yes,,59895.0,bachelor,engineering,someone else,0,not too happy,
+53.0,1,0,1,yes,no,,bachelor,communications/speech,someone else,0,not too happy,exciting
+21.0,1,0,1,yes,no,15428.0,high school,,someone else,0,very happy,exciting
+65.0,1,0,1,yes,,,bachelor,nursing,someone else,0,not too happy,
+53.0,1,1,0,yes,,,high school,,someone else,0,pretty happy,
+59.0,1,0,1,yes,no,,bachelor,health,someone else,0,pretty happy,exciting
+,1,0,1,yes,no,27225.0,high school,,someone else,0,very happy,exciting
+49.0,0,0,1,yes,,49005.0,high school,,someone else,0,very happy,
+41.0,0,0,1,no,yes,17242.0,lt high school,,someone else,0,pretty happy,routine
+32.0,1,0,1,yes,no,39930.0,bachelor,accounting/bookkeeping,someone else,1,very happy,exciting
+65.0,1,0,1,yes,,23595.0,high school,,someone else,0,pretty happy,
+78.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,exciting
+45.0,0,0,0,no,,87120.0,junior college,other vocational,self-employed,0,pretty happy,
+41.0,0,0,1,yes,,49005.0,high school,,someone else,0,not too happy,
+74.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+61.0,1,0,1,yes,yes,17242.0,high school,,someone else,1,not too happy,dull
+35.0,1,0,1,yes,yes,,lt high school,,someone else,1,pretty happy,routine
+21.0,0,1,0,yes,,17242.0,high school,,someone else,1,very happy,
+27.0,1,0,1,yes,no,,lt high school,,someone else,1,pretty happy,exciting
+75.0,0,0,1,yes,,,lt high school,,someone else,0,pretty happy,
+47.0,1,0,1,yes,no,2541.0,junior college,health,someone else,1,not too happy,routine
+36.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+64.0,0,0,1,yes,,9982.0,high school,,someone else,0,very happy,
+81.0,0,0,1,yes,no,19965.0,high school,,someone else,0,very happy,routine
+76.0,1,0,1,yes,no,,bachelor,english,someone else,0,very happy,routine
+23.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,dull
+30.0,0,1,0,no,no,,high school,,someone else,0,not too happy,exciting
+39.0,1,0,1,yes,,15428.0,high school,,self-employed,0,pretty happy,
+25.0,0,0,1,yes,yes,8168.0,high school,,someone else,0,pretty happy,routine
+23.0,0,0,1,yes,no,,high school,,someone else,0,very happy,routine
+63.0,1,0,0,yes,no,1452.0,high school,,someone else,0,pretty happy,routine
+78.0,1,0,1,yes,no,363.0,high school,,someone else,0,very happy,exciting
+32.0,0,0,1,yes,,32670.0,high school,,someone else,0,pretty happy,
+31.0,1,0,1,yes,yes,59895.0,graduate,engineering,someone else,0,pretty happy,exciting
+69.0,0,0,1,yes,,189211.0,bachelor,physical education,self-employed,0,pretty happy,
+67.0,0,0,1,yes,no,189211.0,graduate,architecture,someone else,0,pretty happy,exciting
+29.0,0,0,1,yes,yes,49005.0,graduate,education,someone else,0,very happy,routine
+30.0,1,1,0,no,,,high school,,someone else,0,very happy,
+25.0,0,0,1,yes,no,32670.0,bachelor,industry & techn,someone else,0,pretty happy,dull
+78.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,exciting
+30.0,1,0,1,yes,,3993.0,bachelor,physical education,someone else,0,very happy,
+67.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+29.0,1,0,1,yes,,,high school,,someone else,0,very happy,
+39.0,1,0,1,yes,yes,17242.0,high school,,someone else,0,pretty happy,exciting
+69.0,1,0,1,yes,no,,graduate,business administration,someone else,0,not too happy,routine
+67.0,0,0,1,yes,yes,17242.0,high school,,someone else,0,pretty happy,routine
+59.0,0,1,0,yes,,,high school,,someone else,1,pretty happy,
+64.0,1,1,0,yes,yes,4719.0,high school,,someone else,1,pretty happy,routine
+86.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+65.0,0,0,1,yes,yes,,bachelor,economics,someone else,0,pretty happy,exciting
+80.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+40.0,0,0,1,yes,no,49005.0,high school,,someone else,1,pretty happy,routine
+22.0,1,1,0,yes,,8168.0,high school,,someone else,0,pretty happy,
+68.0,1,0,1,yes,yes,,high school,,someone else,1,not too happy,dull
+57.0,0,1,0,yes,,,lt high school,,someone else,1,pretty happy,routine
+55.0,1,1,0,yes,no,,lt high school,,someone else,0,not too happy,routine
+18.0,0,0,1,yes,no,,lt high school,,someone else,1,not too happy,exciting
+39.0,0,1,0,yes,,,high school,,someone else,1,not too happy,
+27.0,0,0,1,yes,no,27225.0,junior college,criminology/criminal justice,someone else,0,very happy,exciting
+41.0,1,0,1,yes,no,,bachelor,physical education,someone else,0,very happy,exciting
+40.0,0,0,1,yes,,101640.0,high school,,someone else,0,very happy,
+53.0,1,1,0,yes,no,1452.0,high school,,someone else,0,very happy,exciting
+49.0,1,1,0,yes,,6534.0,high school,,self-employed,0,pretty happy,
+49.0,0,1,0,yes,no,,high school,,someone else,0,pretty happy,exciting
+48.0,0,1,0,yes,,27225.0,high school,,someone else,0,pretty happy,
+61.0,0,1,0,yes,no,,high school,,someone else,0,pretty happy,routine
+77.0,1,0,0,yes,no,,high school,,,1,not too happy,exciting
+60.0,1,1,0,yes,,,high school,,someone else,1,pretty happy,
+49.0,0,1,0,yes,no,15428.0,high school,,someone else,1,very happy,exciting
+52.0,1,1,0,yes,,,bachelor,criminology/criminal justice,someone else,1,pretty happy,
+43.0,0,0,1,yes,,59895.0,bachelor,criminology/criminal justice,someone else,0,pretty happy,
+41.0,1,0,1,yes,no,11798.0,high school,,someone else,0,not too happy,routine
+65.0,0,0,1,yes,yes,,high school,,someone else,0,not too happy,dull
+19.0,0,0,1,yes,,,high school,,,0,pretty happy,
+79.0,1,0,1,yes,no,,high school,,someone else,1,not too happy,routine
+46.0,1,0,1,yes,no,,lt high school,,someone else,0,not too happy,exciting
+33.0,0,0,0,yes,yes,87120.0,lt high school,,someone else,0,pretty happy,exciting
+40.0,0,0,1,yes,,3267.0,high school,,someone else,1,pretty happy,
+59.0,1,0,1,yes,no,4719.0,junior college,nursing,someone else,0,not too happy,routine
+70.0,0,0,1,yes,yes,27225.0,bachelor,engineering,someone else,0,pretty happy,exciting
+21.0,1,1,0,yes,no,9982.0,lt high school,,someone else,0,pretty happy,exciting
+46.0,1,0,1,yes,no,2541.0,junior college,nursing,self-employed,0,pretty happy,exciting
+24.0,0,0,0,yes,no,59895.0,high school,,someone else,0,very happy,routine
+37.0,0,0,1,yes,no,,lt high school,,someone else,0,not too happy,routine
+24.0,1,1,0,yes,no,13612.0,high school,,someone else,1,very happy,exciting
+66.0,0,0,1,no,,11798.0,high school,,self-employed,0,pretty happy,routine
+42.0,1,0,1,yes,,1452.0,lt high school,,someone else,0,very happy,
+54.0,1,0,1,yes,no,27225.0,high school,,someone else,0,pretty happy,exciting
+37.0,0,0,1,yes,,23595.0,high school,,someone else,0,pretty happy,
+54.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,very happy,exciting
+68.0,0,1,0,yes,no,8168.0,bachelor,education,self-employed,0,not too happy,routine
+55.0,0,0,1,no,no,19965.0,lt high school,,someone else,0,very happy,routine
+57.0,0,0,1,yes,,17242.0,junior college,health,someone else,1,not too happy,
+64.0,0,0,1,yes,yes,,graduate,history,someone else,0,very happy,exciting
+30.0,0,0,1,yes,no,32670.0,high school,,someone else,0,very happy,exciting
+25.0,1,1,0,no,no,363.0,bachelor,communications/speech,someone else,0,pretty happy,exciting
+84.0,0,0,1,yes,no,,bachelor,geology,someone else,0,very happy,exciting
+55.0,1,1,0,yes,no,,lt high school,,someone else,1,not too happy,routine
+79.0,0,0,1,yes,no,,lt high school,,someone else,0,not too happy,dull
+84.0,1,0,1,yes,,,high school,,self-employed,0,very happy,
+26.0,1,0,0,yes,no,3267.0,high school,,someone else,1,not too happy,routine
+57.0,1,0,1,yes,no,27225.0,high school,,someone else,1,not too happy,routine
+51.0,0,0,1,yes,yes,,high school,,someone else,0,not too happy,routine
+80.0,1,0,1,yes,yes,,bachelor,liberal arts,someone else,1,pretty happy,exciting
+53.0,0,0,1,yes,no,87120.0,high school,,self-employed,0,very happy,exciting
+63.0,1,0,1,yes,yes,,bachelor,other vocational,self-employed,1,not too happy,
+38.0,0,0,1,yes,,87120.0,graduate,aviation/aeronatics,someone else,1,very happy,
+75.0,0,0,1,yes,yes,,graduate,business administration,someone else,0,pretty happy,exciting
+52.0,1,0,1,yes,,27225.0,bachelor,biology,someone else,0,pretty happy,
+54.0,1,0,0,no,no,15428.0,bachelor,mathmatics,someone else,0,very happy,exciting
+48.0,1,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+86.0,0,0,1,yes,,,high school,,self-employed,0,pretty happy,
+50.0,1,0,1,yes,no,32670.0,graduate,human services/human resources,someone else,0,pretty happy,exciting
+62.0,1,0,1,yes,yes,49005.0,graduate,business administration,someone else,0,very happy,exciting
+60.0,0,0,1,yes,,189211.0,high school,,self-employed,0,very happy,
+20.0,1,0,1,yes,,1452.0,high school,,someone else,0,pretty happy,
+30.0,1,0,1,yes,yes,39930.0,bachelor,biology,someone else,0,pretty happy,routine
+68.0,0,0,1,no,no,,bachelor,biology,someone else,0,pretty happy,exciting
+60.0,0,0,0,no,,,lt high school,,someone else,0,pretty happy,
+58.0,1,0,1,yes,no,,high school,,someone else,1,not too happy,routine
+22.0,0,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,routine
+59.0,1,1,0,yes,,,high school,,someone else,0,very happy,
+30.0,1,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+61.0,0,1,0,yes,yes,49005.0,high school,,someone else,1,very happy,routine
+36.0,1,1,0,yes,,9982.0,high school,,someone else,0,pretty happy,
+39.0,1,0,1,no,,,lt high school,,someone else,0,,exciting
+46.0,0,0,0,no,yes,11798.0,high school,,someone else,1,pretty happy,routine
+49.0,0,0,1,no,no,19965.0,lt high school,,someone else,0,very happy,exciting
+53.0,0,0,0,yes,no,,lt high school,,someone else,0,very happy,exciting
+28.0,0,0,0,no,,32670.0,high school,,someone else,0,pretty happy,
+68.0,0,0,1,yes,no,5445.0,high school,,someone else,0,pretty happy,exciting
+52.0,1,0,1,yes,no,49005.0,bachelor,communications/speech,someone else,0,very happy,exciting
+29.0,0,0,0,yes,no,,high school,,someone else,0,not too happy,exciting
+54.0,0,0,1,yes,,27225.0,lt high school,,someone else,1,not too happy,
+21.0,0,0,1,yes,no,1452.0,high school,,self-employed,0,pretty happy,routine
+49.0,0,0,1,yes,no,,lt high school,,someone else,0,very happy,routine
+34.0,0,0,0,yes,no,27225.0,bachelor,other vocational,someone else,0,very happy,exciting
+30.0,1,0,1,yes,yes,4719.0,lt high school,,someone else,0,pretty happy,routine
+66.0,1,1,0,yes,,,high school,,someone else,0,pretty happy,
+31.0,1,0,1,no,,,high school,,,0,very happy,
+69.0,0,0,1,yes,yes,,high school,,self-employed,0,pretty happy,exciting
+59.0,1,0,1,no,,4719.0,graduate,food science/nutrition/culinary arts,self-employed,1,pretty happy,
+37.0,1,0,1,yes,no,27225.0,bachelor,marketing,someone else,0,pretty happy,exciting
+67.0,0,0,1,yes,no,5445.0,high school,,self-employed,1,not too happy,exciting
+42.0,0,0,1,yes,no,17242.0,high school,,someone else,0,very happy,exciting
+56.0,1,0,1,yes,yes,19965.0,graduate,educational administration,someone else,0,pretty happy,exciting
+62.0,1,0,1,yes,yes,32670.0,bachelor,liberal arts,someone else,0,pretty happy,routine
+27.0,1,0,1,yes,,27225.0,graduate,education,someone else,0,very happy,
+81.0,1,0,1,yes,,,lt high school,,self-employed,0,pretty happy,
+35.0,1,0,1,yes,yes,,graduate,social work,someone else,0,very happy,routine
+43.0,1,0,1,yes,yes,49005.0,bachelor,other,self-employed,0,not too happy,exciting
+22.0,0,0,0,yes,yes,,high school,,someone else,1,very happy,exciting
+21.0,1,0,0,yes,yes,,high school,,,1,pretty happy,exciting
+58.0,1,0,1,yes,yes,59895.0,graduate,psychology,self-employed,0,very happy,exciting
+24.0,1,0,1,yes,,,junior college,psychology,,0,pretty happy,
+45.0,0,0,1,yes,yes,363.0,lt high school,,someone else,1,pretty happy,routine
+72.0,0,0,1,yes,,5445.0,high school,,someone else,0,pretty happy,
+19.0,0,0,1,yes,,,high school,,someone else,0,pretty happy,
+85.0,0,0,1,yes,no,,lt high school,,someone else,0,not too happy,routine
+57.0,1,0,1,yes,,49005.0,high school,,someone else,0,very happy,
+62.0,1,0,1,yes,yes,,high school,,someone else,1,pretty happy,routine
+62.0,1,0,1,yes,,27225.0,high school,,someone else,0,very happy,
+51.0,1,0,1,yes,no,11798.0,high school,,self-employed,0,very happy,routine
+20.0,1,0,1,yes,yes,,high school,,,1,pretty happy,routine
+25.0,1,0,1,yes,yes,,high school,,someone else,0,very happy,exciting
+26.0,0,0,1,yes,,49005.0,bachelor,business administration,someone else,0,pretty happy,
+25.0,0,0,1,yes,no,17242.0,high school,,someone else,0,pretty happy,exciting
+46.0,1,0,1,yes,no,13612.0,lt high school,,self-employed,1,pretty happy,routine
+83.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+56.0,0,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+50.0,1,0,1,yes,no,87120.0,high school,,someone else,0,very happy,routine
+78.0,0,0,1,yes,,,lt high school,,someone else,1,pretty happy,
+73.0,0,0,1,yes,yes,49005.0,bachelor,economics,self-employed,0,very happy,exciting
+67.0,0,0,1,yes,no,8168.0,junior college,education,someone else,0,pretty happy,routine
+71.0,1,0,1,yes,yes,,graduate,theology,someone else,1,pretty happy,exciting
+55.0,1,0,1,yes,no,,high school,,,1,not too happy,routine
+43.0,1,0,1,no,no,,lt high school,,,0,very happy,routine
+46.0,1,0,0,yes,,,high school,,self-employed,0,very happy,
+50.0,1,1,0,yes,yes,39930.0,bachelor,psychology,someone else,0,pretty happy,exciting
+76.0,0,0,0,no,,,lt high school,,someone else,1,pretty happy,
+51.0,1,0,1,yes,no,,high school,,,0,pretty happy,routine
+35.0,0,0,1,yes,,,lt high school,,someone else,0,very happy,
+27.0,1,0,1,yes,yes,11798.0,high school,,someone else,1,not too happy,routine
+57.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+44.0,1,0,1,yes,,6534.0,high school,,someone else,0,very happy,
+35.0,0,0,1,yes,no,49005.0,junior college,general studies,someone else,0,pretty happy,exciting
+48.0,0,0,1,yes,no,,high school,,someone else,0,not too happy,routine
+30.0,0,0,1,yes,,9982.0,high school,,someone else,0,pretty happy,
+34.0,1,0,1,yes,yes,27225.0,junior college,social work,someone else,0,not too happy,routine
+29.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,routine
+33.0,1,0,1,yes,yes,23595.0,high school,,someone else,1,very happy,exciting
+28.0,0,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,exciting
+47.0,1,0,1,no,no,23595.0,high school,,someone else,0,very happy,exciting
+58.0,0,0,1,yes,yes,32670.0,lt high school,,self-employed,0,pretty happy,exciting
+66.0,1,0,1,yes,,72600.0,high school,,someone else,0,very happy,
+60.0,1,0,1,yes,yes,49005.0,high school,,someone else,0,pretty happy,exciting
+27.0,1,0,1,yes,no,19965.0,high school,,someone else,0,very happy,routine
+33.0,0,0,1,yes,no,27225.0,high school,,someone else,0,pretty happy,routine
+58.0,0,0,1,yes,,72600.0,junior college,computer science,someone else,0,pretty happy,
+40.0,0,0,1,yes,,27225.0,high school,,someone else,1,pretty happy,
+50.0,0,0,1,yes,,,high school,,someone else,0,not too happy,
+70.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+53.0,1,0,1,yes,yes,59895.0,graduate,chemistry,someone else,0,very happy,exciting
+,1,0,1,yes,yes,,bachelor,veterinary medicine,someone else,0,pretty happy,exciting
+55.0,0,0,1,yes,no,49005.0,junior college,law enforcement,someone else,0,very happy,exciting
+45.0,0,0,0,no,yes,15428.0,lt high school,,self-employed,0,pretty happy,exciting
+57.0,0,0,1,yes,,59895.0,bachelor,business administration,someone else,0,very happy,
+41.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,very happy,routine
+78.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+43.0,0,0,1,yes,yes,189211.0,junior college,engineering,someone else,0,very happy,routine
+56.0,0,0,1,yes,,19965.0,bachelor,social work,someone else,0,pretty happy,
+25.0,0,0,0,yes,yes,23595.0,high school,,someone else,0,pretty happy,routine
+46.0,1,1,0,yes,yes,32670.0,graduate,social work,someone else,1,pretty happy,exciting
+33.0,1,0,1,yes,,23595.0,high school,,someone else,0,pretty happy,
+39.0,1,0,1,yes,,363.0,high school,,someone else,1,pretty happy,
+43.0,1,0,0,no,yes,23595.0,graduate,general sciences,self-employed,0,pretty happy,routine
+53.0,1,0,0,no,,,lt high school,,someone else,0,very happy,
+58.0,0,1,0,yes,yes,39930.0,high school,,someone else,0,very happy,routine
+33.0,1,0,1,yes,no,23595.0,high school,,someone else,1,pretty happy,exciting
+36.0,1,1,0,yes,,2541.0,high school,,someone else,1,pretty happy,
+35.0,0,1,0,yes,no,39930.0,high school,,someone else,1,not too happy,exciting
+57.0,0,0,1,yes,no,,high school,,someone else,0,very happy,routine
+54.0,1,1,0,yes,,27225.0,high school,,someone else,1,pretty happy,
+52.0,0,0,1,yes,yes,39930.0,high school,,someone else,0,pretty happy,routine
+27.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+37.0,0,0,1,yes,,,bachelor,computer science,someone else,0,pretty happy,
+30.0,1,0,1,yes,yes,,junior college,general sciences,someone else,0,pretty happy,routine
+59.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+61.0,1,0,1,yes,,,high school,,someone else,1,not too happy,
+61.0,0,0,1,yes,no,,high school,,self-employed,1,very happy,routine
+44.0,1,0,1,yes,yes,,high school,,self-employed,1,very happy,exciting
+58.0,0,0,1,yes,,49005.0,junior college,chemistry,someone else,0,pretty happy,
+84.0,0,0,1,yes,,,bachelor,biology,self-employed,1,pretty happy,
+72.0,0,0,1,yes,no,15428.0,graduate,theology,self-employed,0,very happy,exciting
+70.0,1,0,0,yes,yes,,graduate,business administration,someone else,0,pretty happy,exciting
+65.0,0,0,1,yes,no,39930.0,bachelor,agriculture/horticulture,self-employed,0,pretty happy,exciting
+29.0,0,0,1,yes,yes,11798.0,high school,,someone else,0,pretty happy,routine
+52.0,1,0,1,yes,,,junior college,general studies,someone else,1,not too happy,
+54.0,1,0,1,yes,no,,junior college,social sciences,someone else,0,not too happy,routine
+29.0,0,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+29.0,0,0,1,yes,,19965.0,bachelor,physical education,someone else,0,pretty happy,
+75.0,1,0,1,no,yes,,lt high school,,someone else,0,very happy,exciting
+54.0,1,0,0,yes,no,,bachelor,liberal arts,someone else,0,pretty happy,routine
+27.0,0,0,1,yes,yes,49005.0,bachelor,engineering,someone else,0,pretty happy,exciting
+57.0,1,0,1,yes,,9982.0,high school,,someone else,0,pretty happy,
+22.0,0,0,0,yes,no,6534.0,high school,,someone else,1,pretty happy,exciting
+37.0,1,0,1,yes,no,19965.0,high school,,someone else,1,pretty happy,routine
+33.0,0,0,1,yes,,39930.0,junior college,general studies,someone else,0,very happy,
+29.0,1,0,1,no,,23595.0,bachelor,criminology/criminal justice,someone else,0,not too happy,
+52.0,1,0,1,yes,no,,lt high school,,someone else,0,not too happy,dull
+53.0,1,0,1,yes,,27225.0,high school,,someone else,0,pretty happy,
+41.0,1,0,1,yes,yes,6534.0,high school,,someone else,0,not too happy,dull
+73.0,0,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+82.0,1,0,1,yes,no,,high school,,someone else,0,very happy,exciting
+54.0,0,0,1,yes,,,junior college,business administration,someone else,0,pretty happy,
+58.0,0,0,1,yes,yes,32670.0,high school,,someone else,0,pretty happy,routine
+63.0,0,0,0,yes,,,high school,,someone else,0,very happy,
+83.0,1,0,1,yes,no,,lt high school,,,0,not too happy,
+79.0,0,0,1,yes,,,high school,,self-employed,0,pretty happy,
+77.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+57.0,1,0,0,yes,no,,high school,,someone else,1,not too happy,dull
+42.0,0,0,1,yes,no,49005.0,high school,,someone else,1,very happy,exciting
+49.0,0,0,1,yes,no,39930.0,bachelor,physical education,self-employed,1,very happy,exciting
+42.0,1,0,0,yes,yes,32670.0,graduate,education,someone else,0,pretty happy,exciting
+54.0,1,0,0,yes,,,lt high school,,someone else,1,not too happy,
+25.0,0,0,1,yes,no,49005.0,high school,,someone else,0,pretty happy,routine
+53.0,1,0,1,yes,,19965.0,high school,,someone else,0,pretty happy,
+24.0,0,0,1,yes,,19965.0,high school,,someone else,0,very happy,
+60.0,0,0,1,yes,no,,lt high school,,someone else,0,not too happy,dull
+42.0,1,0,1,yes,,39930.0,high school,,someone else,0,pretty happy,
+59.0,1,0,1,yes,no,32670.0,high school,,someone else,0,pretty happy,exciting
+56.0,0,0,0,yes,,,lt high school,,someone else,0,pretty happy,
+55.0,1,0,1,yes,no,32670.0,bachelor,art,someone else,0,pretty happy,routine
+63.0,0,0,1,yes,,,graduate,education,someone else,0,pretty happy,
+71.0,0,0,1,yes,yes,,graduate,business administration,someone else,1,pretty happy,routine
+40.0,0,0,1,yes,no,11798.0,high school,,someone else,0,pretty happy,routine
+22.0,0,0,1,yes,no,,high school,,someone else,0,very happy,routine
+69.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,routine
+36.0,1,0,0,yes,,23595.0,high school,,someone else,1,pretty happy,
+43.0,0,0,1,yes,yes,49005.0,bachelor,accounting/bookkeeping,someone else,0,pretty happy,exciting
+61.0,1,0,1,yes,yes,49005.0,bachelor,business administration,someone else,1,pretty happy,exciting
+53.0,1,0,1,yes,yes,19965.0,high school,,someone else,0,pretty happy,exciting
+72.0,1,0,1,yes,,,high school,,someone else,0,not too happy,
+31.0,0,0,1,yes,no,32670.0,bachelor,engineering,someone else,0,very happy,exciting
+32.0,1,0,1,yes,no,,bachelor,accounting/bookkeeping,someone else,0,very happy,routine
+63.0,0,0,1,yes,,1452.0,lt high school,,someone else,0,very happy,
+49.0,1,0,1,yes,yes,32670.0,bachelor,chemistry,someone else,0,pretty happy,exciting
+34.0,0,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,routine
+73.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+83.0,0,0,1,yes,no,,high school,,someone else,1,not too happy,routine
+77.0,0,0,1,yes,no,3267.0,high school,,someone else,0,not too happy,exciting
+69.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+63.0,1,0,1,yes,yes,,high school,,someone else,0,not too happy,exciting
+38.0,1,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,exciting
+61.0,1,0,1,yes,,9982.0,high school,,someone else,0,not too happy,
+48.0,0,0,1,yes,no,32670.0,high school,,someone else,0,very happy,exciting
+56.0,0,0,1,yes,no,32670.0,high school,,someone else,0,not too happy,routine
+69.0,0,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+39.0,0,0,1,yes,,49005.0,high school,,self-employed,0,pretty happy,
+53.0,1,0,1,yes,,17242.0,high school,,someone else,0,pretty happy,
+54.0,1,0,1,yes,no,,high school,,self-employed,0,very happy,exciting
+79.0,1,0,1,yes,no,,high school,,someone else,0,not too happy,exciting
+23.0,0,0,1,yes,no,5445.0,lt high school,,someone else,1,pretty happy,routine
+55.0,0,0,1,yes,,189211.0,high school,,someone else,0,very happy,
+60.0,1,0,1,yes,no,6534.0,high school,,someone else,0,very happy,routine
+44.0,1,0,1,yes,,17242.0,high school,,someone else,0,very happy,
+50.0,0,0,1,yes,no,9982.0,high school,,someone else,0,very happy,exciting
+38.0,1,0,1,yes,,6534.0,high school,,someone else,0,pretty happy,
+61.0,1,0,1,yes,,23595.0,high school,,someone else,0,pretty happy,
+33.0,1,0,1,yes,no,,lt high school,,,0,not too happy,exciting
+46.0,1,0,1,yes,,,lt high school,,,0,not too happy,
+50.0,0,0,1,yes,,363.0,lt high school,,self-employed,1,not too happy,
+64.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+43.0,1,0,1,yes,no,,high school,,someone else,0,pretty happy,routine
+38.0,0,0,1,yes,yes,,high school,,self-employed,0,pretty happy,exciting
+24.0,1,1,0,yes,,19965.0,high school,,someone else,0,pretty happy,
+20.0,0,0,1,no,,,lt high school,,someone else,0,very happy,
+40.0,1,1,0,yes,no,,high school,,someone else,0,very happy,exciting
+59.0,1,0,1,no,no,39930.0,high school,,someone else,0,very happy,exciting
+67.0,1,1,0,yes,no,,lt high school,,someone else,0,pretty happy,exciting
+39.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+67.0,0,1,0,yes,yes,,high school,,someone else,0,pretty happy,routine
+69.0,1,0,1,yes,yes,,high school,,someone else,0,very happy,routine
+31.0,1,0,1,yes,no,23595.0,high school,,someone else,0,not too happy,routine
+55.0,1,1,0,yes,no,6534.0,lt high school,,someone else,0,very happy,exciting
+29.0,0,1,0,yes,no,,high school,,,1,not too happy,routine
+79.0,1,0,1,yes,,,high school,,someone else,1,pretty happy,
+76.0,0,0,1,yes,,,high school,,someone else,0,very happy,
+23.0,1,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,routine
+26.0,0,0,0,no,,,lt high school,,someone else,0,very happy,
+54.0,1,1,0,yes,no,363.0,high school,,someone else,0,not too happy,routine
+38.0,1,1,0,yes,,9982.0,high school,,someone else,1,pretty happy,
+56.0,0,0,1,yes,no,,lt high school,,someone else,0,not too happy,exciting
+58.0,1,1,0,yes,no,9982.0,high school,,someone else,0,pretty happy,exciting
+40.0,0,1,0,yes,no,59895.0,high school,,someone else,1,pretty happy,exciting
+53.0,1,1,0,yes,,,high school,,someone else,0,not too happy,
+66.0,1,0,1,yes,,39930.0,graduate,education,someone else,0,very happy,
+82.0,1,0,1,yes,yes,,high school,,someone else,0,pretty happy,exciting
+42.0,0,0,1,yes,,,bachelor,nursing,someone else,1,pretty happy,
+53.0,1,0,1,yes,,11798.0,bachelor,business administration,someone else,0,pretty happy,
+55.0,0,0,1,yes,no,59895.0,high school,,someone else,1,pretty happy,routine
+57.0,1,0,1,yes,no,,junior college,nursing,someone else,0,very happy,exciting
+51.0,0,0,1,yes,,15428.0,high school,,someone else,1,not too happy,
+78.0,1,0,1,yes,no,,high school,,someone else,1,not too happy,routine
+18.0,1,0,1,yes,no,,high school,,,0,not too happy,routine
+85.0,1,0,1,yes,no,,high school,,someone else,1,pretty happy,routine
+62.0,0,0,1,yes,,39930.0,bachelor,accounting/bookkeeping,someone else,0,very happy,
+27.0,1,0,1,yes,no,27225.0,graduate,education,someone else,0,very happy,exciting
+88.0,0,0,1,yes,,,lt high school,,someone else,0,very happy,
+44.0,1,0,1,yes,yes,17242.0,junior college,visual arts/graphic design/design and drafting,self-employed,0,very happy,exciting
+47.0,0,0,1,yes,no,32670.0,high school,,someone else,0,pretty happy,routine
+52.0,0,0,1,yes,,32670.0,bachelor,general studies,someone else,0,pretty happy,
+66.0,1,0,1,yes,yes,32670.0,graduate,social sciences,someone else,0,pretty happy,routine
+38.0,0,0,1,yes,no,9982.0,high school,,someone else,0,pretty happy,routine
+49.0,1,0,1,yes,no,17242.0,high school,,self-employed,0,very happy,routine
+68.0,0,0,1,yes,,6534.0,lt high school,,someone else,0,pretty happy,
+62.0,1,0,1,yes,yes,,bachelor,fine arts,someone else,1,pretty happy,routine
+34.0,1,0,1,yes,no,15428.0,high school,,someone else,0,very happy,routine
+40.0,0,0,1,yes,no,23595.0,lt high school,,self-employed,0,pretty happy,routine
+68.0,0,0,1,yes,no,,lt high school,,someone else,0,pretty happy,routine
+41.0,1,0,1,yes,,6534.0,high school,,someone else,0,pretty happy,
+57.0,0,0,1,yes,,,high school,,self-employed,0,pretty happy,
+75.0,1,0,1,yes,no,,high school,,someone else,0,very happy,routine
+87.0,1,0,1,yes,,,high school,,someone else,0,pretty happy,
+72.0,0,0,1,yes,,,bachelor,environmental science/ecology,someone else,0,pretty happy,routine
