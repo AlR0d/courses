@@ -1,0 +1,23 @@
+Number of observations: 601
+Number of variables: 9
+Variable name definitions:
+
+    male:           : 0 = female, 1 = male
+    age             : Age
+    yrs_married     : No. years married. Interval approximations. See
+                    original paper for detailed explanation.
+    children        : No. children
+    religious       : How religious, 1 = anti, 2 = not at all, 3 = slightly,
+                    4 = somewhat, 5 = very
+    educ            : Level of education, 9 = grade school, 12 = high
+                    school, 14 = some college, 16 = college graduate,
+                    17 = some graduate school, 20 = advanced degree
+    occupation      : 1 - 7, according to Hollingshead classification (reverse
+                    numbering)
+    rate_marriage   : How rate marriage, 1 = very unhappy, 2 = somewhat happy,
+                    3 = average, 4 = happier than average, 5 = very happy
+    yPT             : How often engaged in extramarital sexual intercourse 
+                    during the past year.  See paper for more details.
+
+See the original paper for more details:
+"A Theory of Extramarital Affairs," Journal of Political Economy, 1978

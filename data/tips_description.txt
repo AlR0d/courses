@@ -1,0 +1,9 @@
+Obs:    245
+
+  1. total_bill             total bill amount
+  2. tip                    tip amount
+  3. sex                    gender of person paying bill
+  4. smoker                 =1 if observed smoking 
+  5. day                    day of the week
+  6. time                   dinner or lunch time
+  7. size                   group size

@@ -1,0 +1,7 @@
+HumanCause  Dichotomous variable = 1 if respondent believes global warming is caused by humans and 0 otherwise
+Age         Age in years
+Male        Dichotomous variable = 1 for men and 0 otherwise
+White       Dichotomous variable = 1 for whites and 0 otherwise
+Educ        Education, ranging from 1 for no formal education to 14 for professional/doctorate degree 
+Income      Income, ranging from 1 for household income < $5,000 to 19 for household income >= $175,000
+Party       Partisan identification, ranging from 1 for strong Republican, 2 for not-so-strong Republican, 3 leans Republican, 4 undecided/independent, 5 leans Democrat, 6 not-so-strong Democrat, 7 strong Democrat
