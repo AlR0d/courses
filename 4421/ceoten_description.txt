@@ -1,4 +1,0 @@
-obs: 177
-
-salary:     annual CEO compensation, in thousands of dollars
-ceoten:     CEO's tenure, in years

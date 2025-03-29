@@ -1,8 +1,0 @@
-Obs:    35
-
-QbPb        weakly expenditure on bread
-QmPm        weakly expenditure on meat
-S           family size
-Y           total expenditure on food per week
-Qb          price of bread
-Pm          price of meat

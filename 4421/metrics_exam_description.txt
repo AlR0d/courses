@@ -1,4 +1,0 @@
-obs:  138
-
-hours:      average study hours per day
-score:      score on first exam

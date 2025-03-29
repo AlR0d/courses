@@ -1,8 +1,0 @@
-Obs:        1000
-
-price       the price the house last sold at, in thousands of dollars.
-sqft        the number of square feet of living area, in hundreds.
-age         age of home.
-utown       a dichotomous variable where 1 corresponds to homes near the university and 0 otherwise.
-pool        a dichotomous variable where 1 corresponds to homes that have a pool and 0 otherwise.
-fplace      a dichotomous variable where 1 corresponds to homes that have a fireplace and 0 otherwise.
